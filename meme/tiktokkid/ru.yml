@@ -1,6 +1,6 @@
 heroku_security:
-  invalid_name: "<a href='tg://emoji?id=5210952531676504517'>🚫</a> <b>Имя кринж какой-то</b>"
-  no_command: "<a href='tg://emoji?id=5210952531676504517'>🚫</a> <b>Команда</b> <code>{}</code> <b>не найдена, ты в муте?</b>"
+  invalid_name: "<emoji document_id=5210952531676504517>🚫</emoji> <b>Имя кринж какой-то</b>"
+  no_command: "<emoji document_id=5210952531676504517>🚫</emoji> <b>Команда</b> <code>{}</code> <b>не найдена, ты в муте?</b>"
   permissions: "🔐 <b>Тут кароче права для</b> <code>{}{}</code>"
   close_menu: "🙈 Ливнуть из меню"
   global: "🔐 <b>Тут глобал настройки. Если вырубишь — то гг для всех команд</b>"
@@ -15,31 +15,31 @@ heroku_security:
   group_admin: "🧑‍⚖️ Админ (любой)"
   group_member: "👥 НПС в группе"
   pm: "🤙 В лс (пм)"
-  owner_list: "<a href='tg://emoji?id=5386399931378440814'>😎</a> <b>Сквад овнеров</b> <code>owner</code><b>:</b>\n\n<blockquote expandable>{}</blockquote>"
-  no_owner: "<a href='tg://emoji?id=5386399931378440814'>😎</a> <b>В овнерах пусто, лол</b> <code>owner</code>"
-  no_user: "<a href='tg://emoji?id=5210952531676504517'>🚫</a> <b>Кому права давать, стене?</b>"
-  not_a_user: "<a href='tg://emoji?id=5447644880824181073'>⚠️</a> <b>Это не юзер, это бот или чат, чел</b>"
+  owner_list: "<emoji document_id=5386399931378440814>😎</emoji> <b>Сквад овнеров</b> <code>owner</code><b>:</b>\n\n<blockquote expandable>{}</blockquote>"
+  no_owner: "<emoji document_id=5386399931378440814>😎</emoji> <b>В овнерах пусто, лол</b> <code>owner</code>"
+  no_user: "<emoji document_id=5210952531676504517>🚫</emoji> <b>Кому права давать, стене?</b>"
+  not_a_user: "<emoji document_id=5447644880824181073>⚠️</emoji> <b>Это не юзер, это бот или чат, чел</b>"
   cancel: "🚫 Отмена (слив)"
   confirm: "👑 Газуем"
-  self: "<a href='tg://emoji?id=5447644880824181073'>⚠️</a> <b>Себе права не меняют, гений</b>"
+  self: "<emoji document_id=5447644880824181073>⚠️</emoji> <b>Себе права не меняют, гений</b>"
   warning: "⚠️ <b>Эй, ты рил хочешь добавить <a href=\"tg://user?id={}\">{}</a> в группу</b> <code>{}</code><b>?\nОн же может твой акк угнать или снести все к чертям!</b>"
   suggest_nonick: "🔰 <i>Врубить ему NoNick, чтоб как анонимус был?</i>"
   user_nn: '🔰 <b>NoNick для <a href="tg://user?id={}">{}</a> врубил, чисто стелс</b>'
   enable_nonick_btn: "🔰 Го"
-  owner_added: '<a href="tg://emoji?id=5386399931378440814">😎</a> <b><a href="tg://user?id={}">{}</a> теперь в скваде</b> <code>owner</code>'
-  owner_removed: '<a href="tg://emoji?id=5386399931378440814">😎</a> <b><a href="tg://user?id={}">{}</a> кикнут из</b> <code>owner</code> <b>(лох)</b>'
+  owner_added: '<emoji document_id="5386399931378440814">😎</emoji> <b><a href="tg://user?id={}">{}</a> теперь в скваде</b> <code>owner</code>'
+  owner_removed: '<emoji document_id="5386399931378440814">😎</emoji> <b><a href="tg://user?id={}">{}</a> кикнут из</b> <code>owner</code> <b>(лох)</b>'
   _cls_doc: "Крутилки безопасности"
-  what: "<a href='tg://emoji?id=5210952531676504517'>🚫</a> <b>Чел, напиши сначала цель: (</b><code>user</code> <b>или</b> <code>chat</code><b>)</b>"
-  no_target: "<a href='tg://emoji?id=5210952531676504517'>🚫</a> <b>Кому правила писать, Пушкину?</b>"
-  no_rule: "<a href='tg://emoji?id=5210952531676504517'>🚫</a> <b>Правило забыл (модуль или команду)</b>"
+  what: "<emoji document_id=5210952531676504517>🚫</emoji> <b>Чел, напиши сначала цель: (</b><code>user</code> <b>или</b> <code>chat</code><b>)</b>"
+  no_target: "<emoji document_id=5210952531676504517>🚫</emoji> <b>Кому правила писать, Пушкину?</b>"
+  no_rule: "<emoji document_id=5210952531676504517>🚫</emoji> <b>Правило забыл (модуль или команду)</b>"
   confirm_rule: "🔐 <b>Зуб даешь, что хочешь разрешить {} <a href='{}'>{}</a> юзать {}</b> <code>{}</code> <b>{}?</b>"
   multiple_rules: "🔐 <b>Тут непонятка, выбери че ты хотел:</b>\n\n{}"
   rule_added: "🔐 <b>Все, дал {} <a href='{}'>{}</a> право юзать {}</b> <code>{}</code> <b>{}</b>"
-  rules: "<a href='tg://emoji?id=5472308992514464048'>🔐</a> <b>Таргет правила (для избранных):</b>\n\n<blockquote expandable>{}</blockquote>"
-  no_rules: "<a href='tg://emoji?id=5210952531676504517'>🚫</a> <b>Пусто тут, как в голове у тиктокера</b>"
-  owner_target: "<a href='tg://emoji?id=5447644880824181073'>⚠️</a> <b>Э, это овнер, он и так босс, не трогай его права</b>"
-  rules_removed: '<a href="tg://emoji?id=5472308992514464048">🔐</a> <b>Снес правила для <a href="{}">{}</a></b>'
-  rule_removed: '<a href="tg://emoji?id=5472308992514464048">🔐</a> <b>Минус правило для <a href="{}">{}</a> (</b><code>{}</code><b>)</b>'
+  rules: "<emoji document_id=5472308992514464048>🔐</emoji> <b>Таргет правила (для избранных):</b>\n\n<blockquote expandable>{}</blockquote>"
+  no_rules: "<emoji document_id=5210952531676504517>🚫</emoji> <b>Пусто тут, как в голове у тиктокера</b>"
+  owner_target: "<emoji document_id=5447644880824181073>⚠️</emoji> <b>Э, это овнер, он и так босс, не трогай его права</b>"
+  rules_removed: '<emoji document_id=5472308992514464048>🔐</emoji> <b>Снес правила для <a href="{}">{}</a></b>'
+  rule_removed: '<emoji document_id=5472308992514464048>🔐</emoji> <b>Минус правило для <a href="{}">{}</a> (</b><code>{}</code><b>)</b>'
   chat_inline: "⚠️ <b>Инлайн в чате не настроишь, ты че!</b>"
   for: "на"
   forever: "навсегда (пожизненно)"
@@ -66,22 +66,22 @@ heroku_security:
   _cmd_doc_tsecrm: "<\"user\"/\"chat\"/\"sgroup\"> <правило> - Убрать одно правило"
   until: "до"
   sgroup: "секьюрити сквад"
-  sgroup_info: "<a href='tg://emoji?id=5870704313440932932'>🔒</a> <b>Инфа по скваду</b> <code>{}</code>:\n\n{}\n{}"
-  created_sgroup: "<a href='tg://emoji?id=5870704313440932932'>🔒</a> <b>Создал сквад</b> <code>{}</code>"
-  sgroup_already_exists: "<a href='tg://emoji?id=5210952531676504517'>🚫</a> <b>Такой сквад уже есть, алло</b> <code>{}</code>"
-  no_args: "<a href='tg://emoji?id=5210952531676504517'>🚫</a> <b>Аргументы где?</b>"
-  sgroup_not_found: "<a href='tg://emoji?id=5210952531676504517'>🚫</a> <b>Нет такого сквада</b> <code>{}</code>"
-  no_users: "<a href='tg://emoji?id=5870772616305839506'>👥</a> <b>Никого нет</b>"
-  users_list: "<a href='tg://emoji?id=5870772616305839506'>👥</a> <b>Братва:</b>\n{}\n"
-  no_permissions: "<a href='tg://emoji?id=5870450390679425417'>🗒</a> <b>Прав нет (как у школьника)</b>"
-  permissions_list: "<a href='tg://emoji?id=5870450390679425417'>🗒</a> <b>Доступы:</b>\n{}\n"
-  sgroup_li: "<a href='tg://emoji?id=4974264756668990388'>▫️</a> <code>{}</code> · <b>{} челов</b> · <b>{} правил</b>"
-  sgroups_list: "<a href='tg://emoji?id=5870704313440932932'>🔒</a> <b>Сквады безопасности:</b>\n\n{}"
-  deleted_sgroup: "<a href='tg://emoji?id=5870704313440932932'>🔒</a> <b>Сквад</b> <code>{}</code> <b>рипнулся (удален)</b>"
-  user_already_in_sgroup: "<a href='tg://emoji?id=5210952531676504517'>🚫</a> <b>Чел</b> <code>{}</code> <b>уже в скваде</b> <code>{}</code>"
-  user_added_to_sgroup: "<a href='tg://emoji?id=5870704313440932932'>🔒</a> <b>Закинул чела</b> <code>{}</code> <b>в сквад</b> <code>{}</code>"
-  user_not_in_sgroup: "<a href='tg://emoji?id=5210952531676504517'>🚫</a> <b>Чел</b> <code>{}</code> <b>не в этом скваде</b> <code>{}</code>"
-  user_removed_from_sgroup: "<a href='tg://emoji?id=5870704313440932932'>🔒</a> <b>Кикнул чела</b> <code>{}</code> <b>из сквада</b> <code>{}</code>"
+  sgroup_info: "<emoji document_id=5870704313440932932>🔒</emoji> <b>Инфа по скваду</b> <code>{}</code>:\n\n{}\n{}"
+  created_sgroup: "<emoji document_id=5870704313440932932>🔒</emoji> <b>Создал сквад</b> <code>{}</code>"
+  sgroup_already_exists: "<emoji document_id=5210952531676504517>🚫</emoji> <b>Такой сквад уже есть, алло</b> <code>{}</code>"
+  no_args: "<emoji document_id=5210952531676504517>🚫</emoji> <b>Аргументы где?</b>"
+  sgroup_not_found: "<emoji document_id=5210952531676504517>🚫</emoji> <b>Нет такого сквада</b> <code>{}</code>"
+  no_users: "<emoji document_id=5870772616305839506>👥</emoji> <b>Никого нет</b>"
+  users_list: "<emoji document_id=5870772616305839506>👥</emoji> <b>Братва:</b>\n{}\n"
+  no_permissions: "<emoji document_id=5870450390679425417>🗒</emoji> <b>Прав нет (как у школьника)</b>"
+  permissions_list: "<emoji document_id=5870450390679425417>🗒</emoji> <b>Доступы:</b>\n{}\n"
+  sgroup_li: "<emoji document_id=4974264756668990388>▫️</emoji> <code>{}</code> · <b>{} челов</b> · <b>{} правил</b>"
+  sgroups_list: "<emoji document_id=5870704313440932932>🔒</emoji> <b>Сквады безопасности:</b>\n\n{}"
+  deleted_sgroup: "<emoji document_id=5870704313440932932>🔒</emoji> <b>Сквад</b> <code>{}</code> <b>рипнулся (удален)</b>"
+  user_already_in_sgroup: "<emoji document_id=5210952531676504517>🚫</emoji> <b>Чел</b> <code>{}</code> <b>уже в скваде</b> <code>{}</code>"
+  user_added_to_sgroup: "<emoji document_id=5870704313440932932>🔒</emoji> <b>Закинул чела</b> <code>{}</code> <b>в сквад</b> <code>{}</code>"
+  user_not_in_sgroup: "<emoji document_id=5210952531676504517>🚫</emoji> <b>Чел</b> <code>{}</code> <b>не в этом скваде</b> <code>{}</code>"
+  user_removed_from_sgroup: "<emoji document_id=5870704313440932932>🔒</emoji> <b>Кикнул чела</b> <code>{}</code> <b>из сквада</b> <code>{}</code>"
   _cmd_doc_delsgroup: "<имя> - Делитнуть сквад"
   _cmd_doc_sgroup: "<имя> - Чекнуть инфу сквада"
   _cmd_doc_sgroups: "Список сквадов"
@@ -90,15 +90,15 @@ heroku_security:
   _cmd_doc_sgroupdel: "<имя> [юзер/реплай] - Кикнуть из сквада"
 
 heroku_settings:
-  watchers: "<a href='tg://emoji?id=5424885441100782420'>👀</a> <b>Сталкеры (watchers):</b>\n\n<blockquote expandable><b>{}</b></blockquote>"
-  mod404: "<a href='tg://emoji?id=5210952531676504517'>🚫</a> <b>Сталкер {} потерялся</b>"
-  disabled: "<a href='tg://emoji?id=5424885441100782420'>👀</a> <b>Сталкер {} пошел спать (OFF)</b>"
-  enabled: "<a href='tg://emoji?id=5424885441100782420'>👀</a> <b>Сталкер {} бдит (ON)</b>"
-  args: "<a href='tg://emoji?id=5210952531676504517'>🚫</a> <b>Имя сталкера введи</b>"
-  user_nn: "<a href='tg://emoji?id=5469791106591890404'>🪄</a> <b>Статус NoNick у этого бро: {}</b>"
-  no_cmd: "<a href='tg://emoji?id=5469791106591890404'>🪄</a> <b>Команду напиши, где ник прятать</b>"
-  cmd_nn: "<a href='tg://emoji?id=5469791106591890404'>🪄</a> <b>Статус NoNick для</b> <code>{}</code><b>: {}</b>"
-  cmd404: "<a href='tg://emoji?id=5469791106591890404'>🪄</a> <b>Нет такой команды, лол</b>"
+  watchers: "<emoji document_id=5424885441100782420>👀</emoji> <b>Сталкеры (watchers):</b>\n\n<blockquote expandable><b>{}</b></blockquote>"
+  mod404: "<emoji document_id=5210952531676504517>🚫</emoji> <b>Сталкер {} потерялся</b>"
+  disabled: "<emoji document_id=5424885441100782420>👀</emoji> <b>Сталкер {} пошел спать (OFF)</b>"
+  enabled: "<emoji document_id=5424885441100782420>👀</emoji> <b>Сталкер {} бдит (ON)</b>"
+  args: "<emoji document_id=5210952531676504517>🚫</emoji> <b>Имя сталкера введи</b>"
+  user_nn: "<emoji document_id=5469791106591890404>🪄</emoji> <b>Статус NoNick у этого бро: {}</b>"
+  no_cmd: "<emoji document_id=5469791106591890404>🪄</emoji> <b>Команду напиши, где ник прятать</b>"
+  cmd_nn: "<emoji document_id=5469791106591890404>🪄</emoji> <b>Статус NoNick для</b> <code>{}</code><b>: {}</b>"
+  cmd404: "<emoji document_id=5469791106591890404>🪄</emoji> <b>Нет такой команды, лол</b>"
   inline_settings: "⚙️ <b>Тут настройки Heroku, не сломай</b>"
   confirm_update: "🧭 <b>Обновляемся? Юб ребутнется</b>"
   confirm_restart: "🔄 <b>Ребутаем шарманку?</b>"
@@ -113,10 +113,10 @@ heroku_settings:
   no_custom_emojis: "🚫 Без кастомных (для нищих)"
   suggest_subscribe: "✅ Предлагать сабку на канал"
   do_not_suggest_subscribe: "🚫 Не пиарить каналы"
-  private_not_allowed: "<a href='tg://emoji?id=5210952531676504517'>🚫</a> <b>В чате пиши, а не тут</b>"
+  private_not_allowed: "<emoji document_id=5210952531676504517>🚫</emoji> <b>В чате пиши, а не тут</b>"
   _cls_doc: "Всякие настройки для гиков"
   nonick_warning: "Алярм! Ты врубил NoNick со стандартным префиксом! Тебя могут замутить в чатах Heroku. Меняй префикс или оффай это!"
-  reply_required: "<a href='tg://emoji?id=5210952531676504517'>🚫</a> <b>Реплайни на чела, кому NoNick делаем</b>"
+  reply_required: "<emoji document_id=5210952531676504517>🚫</emoji> <b>Реплайни на чела, кому NoNick делаем</b>"
   deauth_confirm: "⚠️ <b>ТЫ РИЛ ХОЧЕШЬ СНЕСТИ ХЕРОКУ? ЭТО НЕ РОФЛ, ВСЕ УДАЛИТСЯ!</b>\n\n<i>- Чаты хероку - минус\n- Сессия - минус\n- Инлайн бот - минус</i>"
   deauth_confirm_step2: "⚠️ <b>Точно сносим? Назад дороги нет!</b>"
   deauth_yes: "Я сигма (да)"
@@ -127,12 +127,12 @@ heroku_settings:
   deauth_confirm_btn: "😢 Снести нафиг"
   uninstall: "😢 <b>Сношу Heroku... F...</b>"
   uninstalled: "😢 <b>Все, Heroku удалена. Веб-морда жива, можешь новый акк подрубить!</b>"
-  cmd_nn_list: "<a href='tg://emoji?id=5469791106591890404'>🪄</a> <b>NoNick пашет для этих команд:</b>\n\n<blockquote expandable>{}</blockquote>"
-  user_nn_list: "<a href='tg://emoji?id=5469791106591890404'>🪄</a> <b>NoNick пашет для этих челов:</b>\n\n<blockquote expandable>{}</blockquote>"
-  chat_nn_list: "<a href='tg://emoji?id=5469791106591890404'>🪄</a> <b>NoNick пашет в этих чатах:</b>\n\n<blockquote expandable>{}</blockquote>"
+  cmd_nn_list: "<emoji document_id=5469791106591890404>🪄</emoji> <b>NoNick пашет для этих команд:</b>\n\n<blockquote expandable>{}</blockquote>"
+  user_nn_list: "<emoji document_id=5469791106591890404>🪄</emoji> <b>NoNick пашет для этих челов:</b>\n\n<blockquote expandable>{}</blockquote>"
+  chat_nn_list: "<emoji document_id=5469791106591890404>🪄</emoji> <b>NoNick пашет в этих чатах:</b>\n\n<blockquote expandable>{}</blockquote>"
   btn_yes: "🚸 Пофиг, открывай"
   btn_no: "🔻 Закрыть"
-  nothing: "<a href='tg://emoji?id=5427052514094619126'>🤷‍♀️</a> <b>Пусто тут...</b>"
+  nothing: "<emoji document_id=5427052514094619126>🤷‍♀️</emoji> <b>Пусто тут...</b>"
   _cmd_doc_nonickchat: "Врубить NoNick в этом чате"
   _cmd_doc_nonickchats: "Где включен NoNick (чаты)"
   _cmd_doc_nonickcmd: "<команда> - Врубить NoNick для команды"
@@ -144,8 +144,8 @@ heroku_settings:
   _cmd_doc_watcherbl: "<module> - Оффнуть сталкера в текущем чате"
   _cmd_doc_watcher: "<модуль> - Управление сталкерами\nКлючи:\n[-c - только чаты]\n[-p - только лс]\n[-o - исходящие]\n[-i - входящие]"
   _cmd_doc_watchers: "Че там по сталкерам"
-  core_protection_already_removed: "<a href='tg://emoji?id=6003424016977628379'>🔒</a> <b>Защита ядра уже снята (ты опасный)</b>"
-  core_protection_already_enabled: "<a href='tg://emoji?id=6003424016977628379'>🔒</a> <b>Защита ядра стоит</b>"
+  core_protection_already_removed: "<emoji document_id=6003424016977628379>🔒</emoji> <b>Защита ядра уже снята (ты опасный)</b>"
+  core_protection_already_enabled: "<emoji document_id=6003424016977628379>🔒</emoji> <b>Защита ядра стоит</b>"
   core_protection_confirm: "⚠️ <b>ЧИТАЙ, БЛИН!</b>\n\nСнимаешь защиту - сам виноват, если все сломаешь. Обычным людям это <b>не надо</b>. Если ты не кодер - <b>не лезь</b>. Сомневаешься - <b>не лезь</b>.\n\n<b>Точно снимаем защиту?</b>"
   core_protection_confirm_e: "⚠️ <b>ЧИТАЙ!</b>\n\nВозвращаем защиту. Если ты обычный чел, тебе вообще не надо было ее снимать. Если не кодер - <b>зачем трогал?</b>.\n\n<b>Возвращаем как было?</b>"
   core_protection_btn: "🔓 Снести защиту (я хакер)"
@@ -155,23 +155,23 @@ heroku_settings:
 
 terminal:
   fw_protect: "Кд между редактом"
-  what_to_kill: "<a href='tg://emoji?id=5210952531676504517'>🚫</a> <b>Реплайни на процесс, чтоб убить его</b>"
-  kill_fail: "<a href='tg://emoji?id=5210952531676504517'>🚫</a> <b>Не убивается, живучий гад</b>"
+  what_to_kill: "<emoji document_id=5210952531676504517>🚫</emoji> <b>Реплайни на процесс, чтоб убить его</b>"
+  kill_fail: "<emoji document_id=5210952531676504517>🚫</emoji> <b>Не убивается, живучий гад</b>"
   killed: "<b>Потрачено (убит)</b>"
-  no_cmd: "<a href='tg://emoji?id=5210952531676504517'>🚫</a> <b>Тут ничего не запущено, алло</b>"
-  running: "<a href='tg://emoji?id=5472111548572900003'>⌨️</a><b> Хацкерская команда</b> <code>{}</code>"
+  no_cmd: "<emoji document_id=5210952531676504517>🚫</emoji> <b>Тут ничего не запущено, алло</b>"
+  running: "<emoji document_id=5472111548572900003>⌨️</emoji><b> Хацкерская команда</b> <code>{}</code>"
   finished: "\n<b>Код выхода </b> <code>{}</code>"
   stdout: "\n<b>📼 Выхлоп:</b>\n<pre><code class=\"language-stdout\">"
-  stderr: "</code></pre>\n\n<b><a href='tg://emoji?id=5210952531676504517'>🚫</a> Ошибки (кринж):</b>\n<pre><code class=\"language-stderr\">"
+  stderr: "</code></pre>\n\n<b><emoji document_id=5210952531676504517>🚫</emoji> Ошибки (кринж):</b>\n<pre><code class=\"language-stderr\">"
   end: "</code></pre>"
-  time_exec: "\n<a href='tg://emoji?id=5134202243486057363'>💫</a> <b>Ждал: {}с</b>"
-  auth_fail: "<a href='tg://emoji?id=5210952531676504517'>🚫</a> <b>Пароль не тот, пробуй еще</b>"
-  auth_needed: '<a href="tg://emoji?id=5472308992514464048">🔐</a><a href="tg://user?id={}"> Введи пароль, хакер</a>'
-  auth_msg: "<a href='tg://emoji?id=5472308992514464048'>🔐</a> <b>Редачь это сообщение и пиши пароль от рута для</b> <code>{}</code> <b>, чтоб запустить</b> <code>{}</code>"
-  auth_locked: "<a href='tg://emoji?id=5210952531676504517'>🚫</a> <b>Не фортануло с паролем. Попозже приходи</b>"
-  auth_ongoing: "<a href='tg://emoji?id=5213452215527677338'>⏳</a> <b>Проверяю пароль...</b>"
-  done: "<a href='tg://emoji?id=5314250708508220914'>✅</a> <b>Готово</b>"
-  dangerous_command: "<a href='tg://emoji?id=5454225457916420314'>😖</a> <b>Тормози! Эту команду (<code>{}</code>) я отменил, а то убьешь все.</b>\n\n<a href='tg://emoji?id=5472146462362048818'>💡</a><i> Это защита от дурака, не пиши в поддержку</i>"
+  time_exec: "\n<emoji document_id=5134202243486057363>💫</emoji> <b>Ждал: {}с</b>"
+  auth_fail: "<emoji document_id=5210952531676504517>🚫</emoji> <b>Пароль не тот, пробуй еще</b>"
+  auth_needed: '<emoji document_id=5472308992514464048>🔐</emoji><a href="tg://user?id={}"> Введи пароль, хакер</a>'
+  auth_msg: "<emoji document_id=5472308992514464048>🔐</emoji> <b>Редачь это сообщение и пиши пароль от рута для</b> <code>{}</code> <b>, чтоб запустить</b> <code>{}</code>"
+  auth_locked: "<emoji document_id=5210952531676504517>🚫</emoji> <b>Не фортануло с паролем. Попозже приходи</b>"
+  auth_ongoing: "<emoji document_id=5213452215527677338>⏳</emoji> <b>Проверяю пароль...</b>"
+  done: "<emoji document_id=5314250708508220914>✅</emoji> <b>Готово</b>"
+  dangerous_command: "<emoji document_id=5454225457916420314>😖</emoji> <b>Тормози! Эту команду (<code>{}</code>) я отменил, а то убьешь все.</b>\n\n<emoji document_id=5472146462362048818>💡</emoji><i> Это защита от дурака, не пиши в поддержку</i>"
   _cmd_doc_apt: "Типа '.terminal apt' но короче"
   _cmd_doc_terminal: "<команда> - Бахнуть баш команду"
   _cmd_doc_terminate: "[-f для форса] - Реплайни, чтоб убить процесс"
@@ -181,7 +181,7 @@ heroku_web:
   privacy_leak_nowarn: "⚠️ <b>Эй, это доступ к вебу Heroku. Не пали это в чатах, а то взломают как лоха. Юзай в <a href='tg://openmessage?user_id={}'>Избранном</a>.</b>"
   opening_tunnel: "🔁 <b>Копаю туннель к вебу...</b>"
   tunnel_opened: "🎉 <b>Туннель прокопан. Ссылка живет 20 минут, успевай</b>"
-  host_denied: "<a href='tg://emoji?id=6037254263187443802'>💬</a> Хостинг не разрешает, сорян. Пиши админам хостинга."
+  host_denied: "<emoji document_id=6037254263187443802>💬</emoji> Хостинг не разрешает, сорян. Пиши админам хостинга."
   web_btn: "🌍 Веб-морда"
   _cmd_doc_weburl: "Открыть туннель к вебу"
   btn_yes: "🚸 Пофиг, давай"
@@ -215,19 +215,19 @@ heroku_backup:
   never: "✅ Ок, не буду сейвить автоматом. Вернуть: <code>{prefix}set_backup_period</code>"
   never_bot: "✅ Ок, не буду сейвить автоматом. Вернуть: {prefix}set_backup_period"
   invalid_args: "🚫 <b>Пиши часы цифрами, или `0` чтоб оффнуть</b>"
-  backup_caption: '<a href="tg://emoji?id=5469718869536940860">👆</a> <b>Это бэкап базы. Не кидай никому, уведут акк. Восстановить:</b> <pre><code class="language-heroku">{prefix}restoredb</code></pre> <b>реплаем на файл.</b>'
-  backupall_info: '<a href="tg://emoji?id=5469718869536940860">👆</a> <b>Это фулл бэкап (база + моды). Не сливай никому! Восстановить:</b> <pre><code class="language-heroku">{prefix}restoreall</code></pre> <b>реплаем на файл.</b>'
-  all_restored: "<a href='tg://emoji?id=5774134533590880843'>🔄</a> <b>Фулл бэкап накатил, ребутаюсь....</b>"
-  reply_to_file: "<a href='tg://emoji?id=5210952531676504517'>🚫</a> <b>Реплайни на .json или .zip, ну</b>"
-  db_restored: "<a href='tg://emoji?id=5774134533590880843'>🔄</a> <b>Базу накатил, ребут...</b>"
-  modules_backup: "<a href='tg://emoji?id=5431736674147114227'>🗂</a> <b>Бэкап модов ({})</b>\n\n<b>Восстановить:</b>\n<pre><code class=\"language-heroku\">{}restoremods</code></pre>"
-  mods_restored: "<a href='tg://emoji?id=5774134533590880843'>🔄</a> <b>Моды вернул, ребут</b>"
-  backup_sent: "<a href='tg://emoji?id=5431736674147114227'>🗂</a> <b>Скинул бэкап в избранное</b>"
-  backupall_sent: "<a href='tg://emoji?id=5431736674147114227'>🗂</a> <b>Фулл бэкап в избранном</b>"
+  backup_caption: '<emoji document_id=5469718869536940860>👆</emoji> <b>Это бэкап базы. Не кидай никому, уведут акк. Восстановить:</b> <pre><code class="language-heroku">{prefix}restoredb</code></pre> <b>реплаем на файл.</b>'
+  backupall_info: '<emoji document_id=5469718869536940860>👆</emoji> <b>Это фулл бэкап (база + моды). Не сливай никому! Восстановить:</b> <pre><code class="language-heroku">{prefix}restoreall</code></pre> <b>реплаем на файл.</b>'
+  all_restored: "<emoji document_id=5774134533590880843>🔄</emoji> <b>Фулл бэкап накатил, ребутаюсь....</b>"
+  reply_to_file: "<emoji document_id=5210952531676504517>🚫</emoji> <b>Реплайни на .json или .zip, ну</b>"
+  db_restored: "<emoji document_id=5774134533590880843>🔄</emoji> <b>Базу накатил, ребут...</b>"
+  modules_backup: "<emoji document_id=5431736674147114227>🗂</emoji> <b>Бэкап модов ({})</b>\n\n<b>Восстановить:</b>\n<pre><code class=\"language-heroku\">{}restoremods</code></pre>"
+  mods_restored: "<emoji document_id=5774134533590880843>🔄</emoji> <b>Моды вернул, ребут</b>"
+  backup_sent: "<emoji document_id=5431736674147114227>🗂</emoji> <b>Скинул бэкап в избранное</b>"
+  backupall_sent: "<emoji document_id=5431736674147114227>🗂</emoji> <b>Фулл бэкап в избранном</b>"
   db_warning: "❗️ О, бэкап от Hikka. <b>Попробую</b> переделать под Heroku.\nМожет кринжануть. Пробуем?"
   advice_converting: "Можешь сам поменять <a>'hikka.'</a> на <a>'heroku.'</a> в файле. Так надо."
   converting_db: "🔄 Шаманю над базой..."
-  probably_zip: "<a href='tg://emoji?id=5210952531676504517'>❗️</a> <b>Не вышло. Если это фулл бэкап (.zip/.backup), юзай</b> <code>{}restoreall</code> <b>реплаем.</b>"
+  probably_zip: "<emoji document_id=5210952531676504517>❗️</emoji> <b>Не вышло. Если это фулл бэкап (.zip/.backup), юзай</b> <code>{}restoreall</code> <b>реплаем.</b>"
   _cls_doc: "Работает с бэкапами (сейвами)"
   _cmd_doc_backupdb: "Сделать бэкап базы [придет в лс]"
   _cmd_doc_backupmods: "Сделать бэкап модов [придет в лс]"
@@ -250,46 +250,46 @@ presets:
   preset: "<b>{}:</b>\nℹ️ <i>{}</i>\n\n⚒ <b>Че внутри:</b>\n\n{}"
   back: "🔙 Назад"
   install: "📦 Инсталл"
-  installing: "<a href='tg://emoji?id=5451732530048802485'>⏳</a> <b>Качаю пак </b><code>{}</code><b>...</b>"
-  installing_module: "<a href='tg://emoji?id=5451732530048802485'>⏳</a> <b>Качаю пак</b> <code>{}</code> <b>({}/{})...</b>\n\n<a href='tg://emoji?id=5188377234380954537'>🪐</a> <i>Ставлю модуль {}...</i>"
-  installed: "<a href='tg://emoji?id=5436040291507247633'>🎉</a> <b>Пак</b> <code>{}</code> <b>накатил!</b>"
+  installing: "<emoji document_id=5451732530048802485>⏳</emoji> <b>Качаю пак </b><code>{}</code><b>...</b>"
+  installing_module: "<emoji document_id=5451732530048802485>⏳</emoji> <b>Качаю пак</b> <code>{}</code> <b>({}/{})...</b>\n\n<emoji document_id=5188377234380954537>🪐</emoji> <i>Ставлю модуль {}...</i>"
+  installed: "<emoji document_id=5436040291507247633>🎉</emoji> <b>Пак</b> <code>{}</code> <b>накатил!</b>"
   already_installed: "✅ [Уже стоит]"
 
 settings:
-  choose_installation: "<a href='tg://emoji?id=5363805650327450240'>🪐</a> <b>Где ставить будем?</b>"
-  vds_install: "<a href='tg://emoji?id=5471952986970267163'>💎</a> На VDS одной командой:\n<pre><code class=\"language-shell\">sudo apt update &amp;&amp; sudo apt upgrade -y &amp;&amp; sudo apt install git python3-pip &amp;&amp; git clone https://github.com/coddrago/Heroku &amp;&amp; cd Heroku &amp;&amp; pip install -r requirements.txt &amp;&amp; python3 -m heroku</code></pre>\n<i>Если нет sudo, убери его из команды.</i>"
+  choose_installation: "<emoji document_id=5363805650327450240>🪐</emoji> <b>Где ставить будем?</b>"
+  vds_install: "<emoji document_id=5471952986970267163>💎</emoji> На VDS одной командой:\n<pre><code class=\"language-shell\">sudo apt update &amp;&amp; sudo apt upgrade -y &amp;&amp; sudo apt install git python3-pip &amp;&amp; git clone https://github.com/coddrago/Heroku &amp;&amp; cd Heroku &amp;&amp; pip install -r requirements.txt &amp;&amp; python3 -m heroku</code></pre>\n<i>Если нет sudo, убери его из команды.</i>"
   wsl_install: "<b>WSL тема.</b> Открой PowerShell (админ) и пиши <code>wsl --install -d Ubuntu-22.04</code> \n⚠️ <i>Надо Windows 10 (2004+) или 11 и виртуализацию.</i>\n\n⬜️ <b>Ребутни комп и открой Ubuntu 22.04.x</b> \n\n⬜️ <b>Вставь это (ПКМ):</b> <code>curl -Ss https://bootstrap.pypa.io/get-pip.py | python3</code> \n⚠️ <i>Если желтым ругается, пиши</i> <code>export PATH=\"/home/username/.local/bin:$PATH\"</code>\n\n⬜️ <b>Вставь это (ПКМ):</b> \n<pre><code class=\"language-bash\">clear &amp;&amp; git clone https://github.com/coddrago/Heroku &amp;&amp; cd Heroku &amp;&amp; pip install -r requirements.txt &amp;&amp; python3 -m heroku</code></pre>\n🔗 <b>API_ID и API_HASH?</b>: <a href=\"https://youtu.be/DcqDA249Lhg?t=24\">Видос тут</a>"
   userland_install: "<b>Качай UserLAnd тут:</b> <a href=\"https://play.google.com/store/apps/details?id=tech.ula\">ссылка</a>\n\n<b>Открывай, тыкай Ubuntu —&gt; Minimal —&gt; Terminal</b>\n\n<b>Жди, пей чай</b>\n\n<b>Как откроется консоль, пиши:</b>\n<pre><code class=\"language-bash\">sudo apt update &amp;&amp; sudo apt upgrade -y &amp;&amp; sudo apt install python3 git python3-pip -y &amp;&amp; git clone https://github.com/coddrago/Heroku &amp;&amp; cd Heroku &amp;&amp; sudo pip install -r requirements.txt &amp;&amp; python3 -m heroku</code></pre>\n\n<b>В конце будет ссылка, переходи и логинься.\n\nВуаля! Ты хакер на телефоне.</b>"
   jamhost_install: "🪐 <b>JamHost (база):</b>\n\n<b>Иди в @jamhostbot, пиши </b><code>/pay</code><b> и делай че он скажет.</b>"
   hikkahost_install: "<b>🌘 HikkaHost:</b>\n\n1. Иди в @hikkahost_bot\n2. Жми «Установить»\n3. Жми «🪐 Heroku»\n\nИ делай дальше.\n\n<b>Получишь ссылку, логинься и кайфуй.</b>"
   lavhost_install: "⬇️ lavHost:\n\n• Иди в @lavhostbot, пиши /buy, плати\n• Кидай чек если надо\n• Потом /install и выбирай Heroku\n• Делай че бот скажет"
-  too_many_args: "<a href='tg://emoji?id=5210952531676504517'>🚫</a> <b>Много букв, короче пиши</b>"
-  blacklisted: "<a href='tg://emoji?id=5197474765387864959'>👍</a> <b>Чат {} в мусорке (ЧС)</b>"
-  unblacklisted: "<a href='tg://emoji?id=5197474765387864959'>👍</a> <b>Чат {} вернул из мусорки</b>"
-  user_blacklisted: "<a href='tg://emoji?id=5197474765387864959'>👍</a> <b>Чел {} в бане (ЧС)</b>"
-  user_unblacklisted: "<a href='tg://emoji?id=5197474765387864959'>👍</a> <b>Чел {} разбанен</b>"
-  what_prefix: "<a href='tg://emoji?id=5382187118216879236'>❓</a> <b>Какой префикс ставим? (.)</b>"
-  prefix_incorrect: "<a href='tg://emoji?id=5210952531676504517'>🚫</a> <b>Префикс - это ОДИН символ, алло</b>"
+  too_many_args: "<emoji document_id=5210952531676504517>🚫</emoji> <b>Много букв, короче пиши</b>"
+  blacklisted: "<emoji document_id=5197474765387864959>👍</emoji> <b>Чат {} в мусорке (ЧС)</b>"
+  unblacklisted: "<emoji document_id=5197474765387864959>👍</emoji> <b>Чат {} вернул из мусорки</b>"
+  user_blacklisted: "<emoji document_id=5197474765387864959>👍</emoji> <b>Чел {} в бане (ЧС)</b>"
+  user_unblacklisted: "<emoji document_id=5197474765387864959>👍</emoji> <b>Чел {} разбанен</b>"
+  what_prefix: "<emoji document_id=5382187118216879236>❓</emoji> <b>Какой префикс ставим? (.)</b>"
+  prefix_incorrect: "<emoji document_id=5210952531676504517>🚫</emoji> <b>Префикс - это ОДИН символ, алло</b>"
   prefix_set: "{} <b>Префикс сменил. Вернуть обратно:</b>\n<pre><code class=\"language-heroku\">{newprefix}setprefix {oldprefix}</code></pre>"
   entity_prefix_set: "{} <b>Префикс для {entity_name} сменил. Вернуть:</b>\n<pre><code class=\"language-heroku\">{newprefix}setprefix {oldprefix} {entity_id}</code></pre>"
-  id_not_found_scgroup: "<a href='tg://emoji?id=5210952531676504517'>🚫</a> Этого нет в сквадах безопасности. Смысла нет префикс менять"
-  invalid_id_or_username: "<a href='tg://emoji?id=5210952531676504517'>🚫</a> Кривой id или юзернейм"
-  alias_created: "<a href='tg://emoji?id=5197474765387864959'>👍</a> <b>Алиас готов. Юзай через</b> <code>{}</code>"
+  id_not_found_scgroup: "<emoji document_id=5210952531676504517>🚫</emoji> Этого нет в сквадах безопасности. Смысла нет префикс менять"
+  invalid_id_or_username: "<emoji document_id=5210952531676504517>🚫</emoji> Кривой id или юзернейм"
+  alias_created: "<emoji document_id=5197474765387864959>👍</emoji> <b>Алиас готов. Юзай через</b> <code>{}</code>"
   aliases: "<b>🔗 Твои алиасы:</b>\n"
-  no_command: "<a href='tg://emoji?id=5210952531676504517'>🚫</a> <b>Нет такой команды</b> <code>{}</code>"
-  unstable: "\n\n<a href='tg://emoji?id=5355133243773435190'>❕</a> <b>Ты на ветке</b> <code>{}</code> <b>сидишь, бро</b>"
-  alias_args: "<a href='tg://emoji?id=5210952531676504517'>🚫</a> <b>Пиши команду и алиас к ней</b>"
-  delalias_args: "<a href='tg://emoji?id=5210952531676504517'>🚫</a> <b>Имя алиаса давай</b>"
-  alias_removed: "<a href='tg://emoji?id=5197474765387864959'>👍</a> <b>Алиас</b> <code>{}</code> <b>минус</b>."
-  no_alias: "<a href='tg://emoji?id=5210952531676504517'>🚫</a> <b>Нет такого алиаса</b> <code>{}</code>"
-  db_cleared: "<a href='tg://emoji?id=5197474765387864959'>👍</a> <b>Базу вайпнул (очистил)</b>"
-  heroku: "{} <b>{}.{}.{}</b> <i>{}</i>\n\n<b><a href='tg://emoji?id=5289608677244811430'>📁</a> <b>heroku-tl:</b> <i>{}</i>\n\n<a href='tg://emoji?id=5228879218363872764'>⌨</a> <b>Кодеры: <a href=\"t.me/codrago\">@codrago</a>, <a href=\"t.me/zetgo\">@zetgo</a><b>"
+  no_command: "<emoji document_id=5210952531676504517>🚫</emoji> <b>Нет такой команды</b> <code>{}</code>"
+  unstable: "\n\n<emoji document_id=5355133243773435190>❕</emoji> <b>Ты на ветке</b> <code>{}</code> <b>сидишь, бро</b>"
+  alias_args: "<emoji document_id=5210952531676504517>🚫</emoji> <b>Пиши команду и алиас к ней</b>"
+  delalias_args: "<emoji document_id=5210952531676504517>🚫</emoji> <b>Имя алиаса давай</b>"
+  alias_removed: "<emoji document_id=5197474765387864959>👍</emoji> <b>Алиас</b> <code>{}</code> <b>минус</b>."
+  no_alias: "<emoji document_id=5210952531676504517>🚫</emoji> <b>Нет такого алиаса</b> <code>{}</code>"
+  db_cleared: "<emoji document_id=5197474765387864959>👍</emoji> <b>Базу вайпнул (очистил)</b>"
+  heroku: "{} <b>{}.{}.{}</b> <i>{}</i>\n\n<b><emoji document_id=5289608677244811430>📁</emoji> <b>heroku-tl:</b> <i>{}</i>\n\n<emoji document_id=5228879218363872764>⌨</emoji> <b>Кодеры: <a href=\"t.me/codrago\">@codrago</a>, <a href=\"t.me/zetgo\">@zetgo</a><b>"
   _cls_doc: "Базовые настройки"
   confirm_cleardb: "⚠️ <b>Ты реально хочешь вайпнуть базу данных? Все слетит!</b>"
   cleardb_confirm: "🗑 Вайпнуть базу"
   cancel: "🚫 Отмена"
-  who_to_blacklist: "<a href='tg://emoji?id=5382187118216879236'>❓</a> <b>Кого банить?</b>"
-  who_to_unblacklist: "<a href='tg://emoji?id=5382187118216879236'>❓</a> <b>Кого разбанить?</b>"
+  who_to_blacklist: "<emoji document_id=5382187118216879236>❓</emoji> <b>Кого банить?</b>"
+  who_to_unblacklist: "<emoji document_id=5382187118216879236>❓</emoji> <b>Кого разбанить?</b>"
   _cmd_doc_addalias: "Сделать алиас (сокращение)"
   _cmd_doc_aliases: "Показать алиасы"
   _cmd_doc_blacklist: "[чат] [модуль] - Оффнуть бота тут"
@@ -309,8 +309,8 @@ heroku_config:
   configuring_lib: "📦 <b>Настройка либы</b> <code>{}</code>\n\n<b>Че щас стоит:</b>\n\n{}"
   configuring_option: "⚙️ <b>Крутим настройку</b> <code>{}</code> <b>модуля</b> <code>{}</code>\n<i>ℹ️ {}</i>\n\n<b>По дефолту: {}</b>\n\n<b>Щас: {}</b>\n\n{}"
   configuring_option_lib: "📦 <b>Крутим настройку</b> <code>{}</code> <b>либы</b> <code>{}</code>\n<i>ℹ️ {}</i>\n\n<b>По дефолту: {}</b>\n\n<b>Щас: {}</b>\n\n{}"
-  option_saved: "<a href='tg://emoji?id=5318933532825888187'>⚙️</a> <b>Настройку</b> <code>{}</code> <b>для</b> <code>{}</code><b> сохранил!</b>\n<b>Щас: {}</b>"
-  option_saved_lib: "<a href='tg://emoji?id=5431736674147114227'>📦</a> <b>Настройку</b> <code>{}</code> <b>для либы</b> <code>{}</code><b> сохранил!</b>\n<b>Щас: {}</b>"
+  option_saved: "<emoji document_id=5318933532825888187>⚙️</emoji> <b>Настройку</b> <code>{}</code> <b>для</b> <code>{}</code><b> сохранил!</b>\n<b>Щас: {}</b>"
+  option_saved_lib: "<emoji document_id=5431736674147114227>📦</emoji> <b>Настройку</b> <code>{}</code> <b>для либы</b> <code>{}</code><b> сохранил!</b>\n<b>Щас: {}</b>"
   option_reset: "♻️ <b>Сбросил</b> <code>{}</code> <b>для</b> <code>{}</code><b> в дефолт</b>\n<b>Щас: {}</b>"
   option_reset_lib: "♻️ <b>Сбросил</b> <code>{}</code> <b>для либы</b> <code>{}</code><b> в дефолт</b>\n<b>Щас: {}</b>"
   _cls_doc: "Конфигуратор (настройки)"
@@ -339,10 +339,10 @@ heroku_config:
   _cmd_doc_fconfig: "<модуль> <опция> <значение> - быстро поменять конфиг"
 
 inline_stuff:
-  bot_username_invalid: "<a href='tg://emoji?id=5210952531676504517'>🚫</a> <b>Ник кривой. Должен быть с</b> <code>bot</code> <b>на конце и от 5 символов</b>"
-  token_invalid: "<a href='tg://emoji?id=5210952531676504517'>🚫</a> <b>Токен паленый какой-то. Проверь цифры и буквы</b>"
-  bot_username_occupied: "<a href='tg://emoji?id=5210952531676504517'>🚫</a> <b>Ник занят уже кем-то</b>"
-  bot_updated: "<a href='tg://emoji?id=6318792204118656433'>🎉</a> <b>Сохранил. Ребутни юб чтоб заработало</b>"
+  bot_username_invalid: "<emoji document_id=5210952531676504517>🚫</emoji> <b>Ник кривой. Должен быть с</b> <code>bot</code> <b>на конце и от 5 символов</b>"
+  token_invalid: "<emoji document_id=5210952531676504517>🚫</emoji> <b>Токен паленый какой-то. Проверь цифры и буквы</b>"
+  bot_username_occupied: "<emoji document_id=5210952531676504517>🚫</emoji> <b>Ник занят уже кем-то</b>"
+  bot_updated: "<emoji document_id=6318792204118656433>🎉</emoji> <b>Сохранил. Ребутни юб чтоб заработало</b>"
   this_is_heroku: "🪐 <b>Ку! Это Heroku — лютый юзербот. Ставь себе и кайфуй!</b>\n\n<b>🌍 <a href=\"https://github.com/coddrago/Heroku\">GitHub</a></b>\n<b>👥 <a href=\"https://t.me/heroku_talks\">Чат с типами</a></b>"
   profile_cmd: "ℹ️ Стата юзербота\n\n<blockquote>• Префикс: {prefix}\n• ОЗУ жрет: {ram_usage} МБ\n• Проц грузит: {cpu_usage}%\n• Хост: {host}</blockquote>"
   restart: "🔄 Ребутаюсь..."
@@ -350,18 +350,18 @@ inline_stuff:
   _cmd_doc_ch_heroku_bot: "<юзернейм> - Сменить ник инлайн бота"
 
 test:
-  set_loglevel: "<a href='tg://emoji?id=5355133243773435190'>🚫</a> <b>Уровень логов дай (числом или словом)</b>"
-  no_logs: "<a href='tg://emoji?id=5355133243773435190'>🤷‍♀️</a> <b>Нет логов уровня</b> <code>{}</code><b>.</b>"
+  set_loglevel: "<emoji document_id=5355133243773435190>🚫</emoji> <b>Уровень логов дай (числом или словом)</b>"
+  no_logs: "<emoji document_id=5355133243773435190>🤷‍♀️</emoji> <b>Нет логов уровня</b> <code>{}</code><b>.</b>"
   configping: "Твой текст пинга. Юзай: {ping}, {uptime}, {ping_hint} (рофл фраза). Можно {hostname} сервера."
   hint: "Подсказка"
   ping_emoji: "Эмодзи когда пинг норм."
   back: "↩️ Назад"
   banner_url: "Картинка для пинга, типа: https://raw.githubusercontent.com/coddrago/assets/refs/heads/main/heroku/ping_cmd.png"
-  logs_caption: "<a href='tg://emoji?id=5350594756126721186'>🪐</a> <b>Логи Heroku (lvl</b> <code>{}</code><b>)</b>\n\n<a href='tg://emoji?id=5228879218363872764'>⚪️</a> <b>Версия: {}.{}.{}</b>{}"
-  debugging_enabled: "<a href='tg://emoji?id=5332533929020761310'>✅</a> <b>Режим дебага ON для</b> <code>{0}</code>\n<i>Иди в `debug_modules`, правь `{0}.py`, и смотри че будет</i>"
-  debugging_disabled: "<a href='tg://emoji?id=5332533929020761310'>✅</a> <b>Режим дебага OFF</b>"
-  suspend_invalid_time: "<a href='tg://emoji?id=5210952531676504517'>🚫</a> <b>Время кривое</b>"
-  suspended: "<a href='tg://emoji?id=5452023368054216810'>🥶</a> <b>Фризнул бота на</b> <code>{}</code> <b>сек</b>"
+  logs_caption: "<emoji document_id=5350594756126721186>🪐</emoji> <b>Логи Heroku (lvl</b> <code>{}</code><b>)</b>\n\n<emoji document_id=5228879218363872764>⚪️</emoji> <b>Версия: {}.{}.{}</b>{}"
+  debugging_enabled: "<emoji document_id=5332533929020761310>✅</emoji> <b>Режим дебага ON для</b> <code>{0}</code>\n<i>Иди в `debug_modules`, правь `{0}.py`, и смотри че будет</i>"
+  debugging_disabled: "<emoji document_id=5332533929020761310>✅</emoji> <b>Режим дебага OFF</b>"
+  suspend_invalid_time: "<emoji document_id=5210952531676504517>🚫</emoji> <b>Время кривое</b>"
+  suspended: "<emoji document_id=5452023368054216810>🥶</emoji> <b>Фризнул бота на</b> <code>{}</code> <b>сек</b>"
   confidential: "⚠️ <b>Логи уровня</b> <code>{}</code> <b>могут спалить твои данные, аккуратнее</b>"
   confidential_text: "⚠️ <b>Логи уровня</b> <code>{0}</code> <b>могут спалить твои данные!</b>\n<b>Пиши</b> <code>.logs {0} force_insecure</code><b>, если пофиг</b>"
   choose_loglevel: "💁‍♂️ <b>Выбери уровень</b>"
@@ -376,14 +376,14 @@ test:
   _cmd_doc_clearlogs: "Вайпнуть логи"
 
 updater:
-  source: "<a href='tg://emoji?id=5208634061085492935'>📖</a> <b>Сурсы (код) тут:</b> <a href='{}'>тык</a>"
-  restarting_caption: "<a href='tg://emoji?id=5208622108191506906'>🕗</a> <b>Твоя {} ребутается...</b>"
-  downloading: "<a href='tg://emoji?id=5208622108191506906'>🕗</a> <b>Качаю обнову...</b>"
-  installing: "<a href='tg://emoji?id=5208622108191506906'>🕗</a> <b>Ставлю обнову...</b>"
-  success: "<a href='tg://emoji?id=5208661316947955396'>⏱</a> <b>Ребут успешный! {}</b>\n<i>Модули еще грузятся...</i>\n<i>Заняло {} сек</i>"
-  full_success: "<a href='tg://emoji?id=6028215594707324419'>👍</a> <b>Фулл загрузка! {}</b>\n<i>Всего заняло {} сек.</i>"
+  source: "<emoji document_id=5208634061085492935>📖</emoji> <b>Сурсы (код) тут:</b> <a href='{}'>тык</a>"
+  restarting_caption: "<emoji document_id=5208622108191506906>🕗</emoji> <b>Твоя {} ребутается...</b>"
+  downloading: "<emoji document_id=5208622108191506906>🕗</emoji> <b>Качаю обнову...</b>"
+  installing: "<emoji document_id=5208622108191506906>🕗</emoji> <b>Ставлю обнову...</b>"
+  success: "<emoji document_id=5208661316947955396>⏱</emoji> <b>Ребут успешный! {}</b>\n<i>Модули еще грузятся...</i>\n<i>Заняло {} сек</i>"
+  full_success: "<emoji document_id=6028215594707324419>👍</emoji> <b>Фулл загрузка! {}</b>\n<i>Всего заняло {} сек.</i>"
   ub_stop: "Твоя {emoji} стопнулась!"
-  secure_boot_complete: "<a href='tg://emoji?id=5472308992514464048'>🔐</a> <b>Сейф бут все! {}</b>\n<i>Заняло {} сек</i>"
+  secure_boot_complete: "<emoji document_id=5472308992514464048>🔐</emoji> <b>Сейф бут все! {}</b>\n<i>Заняло {} сек</i>"
   origin_cfg_doc: "Откуда обновляться (git)"
   btn_restart: "🔄 Ребут"
   btn_update: "🧭 Обнова"
@@ -393,8 +393,8 @@ updater:
   no_update: "🚸 <b>У тебя ласт версия. Все равно обновить?</b>"
   cancel: "🚫 Не надо"
   _cls_doc: "Обновлялка"
-  invalid_args: "<a href='tg://emoji?id=5210952531676504517'>🚫</a> <b>Сколько коммитов откатить то?</b>"
-  rollback_too_far: "<a href='tg://emoji?id=5210952531676504517'>🚫</a> <b>Куда так далеко откатываешь!</b>"
+  invalid_args: "<emoji document_id=5210952531676504517>🚫</emoji> <b>Сколько коммитов откатить то?</b>"
+  rollback_too_far: "<emoji document_id=5210952531676504517>🚫</emoji> <b>Куда так далеко откатываешь!</b>"
   rollback_confirm: "❓ <b>Точно откатываем {num} коммит(-а,-ов)?</b>"
   rollback_process: "🕗 <b>Откатываю {num} коммитов...</b>"
   autoupdate_notifier: "🆕 Обнова Heroku!\n\n🔮 Версия #{} подлетела\n\n<i>Че нового</i>:\n<blockquote expandable>{}</blockquote>\n{}\n\n<b>Обновляю...</b>"
@@ -408,7 +408,7 @@ updater:
   more: "\n<i><b>🎥 И еще {} штук...</b></i>"
   latest_disabled: "Уведомление о ласт обнове оффнуто"
   _cfg_doc_disable_notifications: "Оффнуть уведомления об обновах"
-  changelog: '<a href="tg://emoji?id=5434144690511290129">📰</a> <b>Че было в жирной обнове:</b><pre><code class="language-heroku">{}</code></pre>'
+  changelog: '<emoji document_id=5434144690511290129>📰</emoji> <b>Че было в жирной обнове:</b><pre><code class="language-heroku">{}</code></pre>'
   _cfg_doc_autoupdate: "💫 Авто-апдейт Heroku"
   _cmd_doc_restart: "Ребутает юб"
   _cmd_doc_source: "Ссылка на гит"
@@ -416,11 +416,11 @@ updater:
   _cmd_doc_rollback: "Откатывает обнову"
 api_protection:
   warning: "⚠️ <b>ЭЭЭ СТОПЭ!</b>\n\nТы превысил лимиты запросов. Чтоб телега не дала спамбан, юзербот <b>ушел в фриз</b> на {} секунд. Инфа в файле. \n\nИди в <code>{prefix}support</code> поплачь!\n\nЕсли так и надо, жди таймер, а потом юзай <code>{prefix}suspend_api_protect</code> &lt;секунды&gt;"
-  args_invalid: "<a href='tg://emoji?id=5210952531676504517'>🚫</a> <b>Аргументы кривые</b>"
-  suspended_for: "<a href='tg://emoji?id=5458450833857322148'>👌</a> <b>Защита API оффнута на {} сек</b>"
-  on: "<a href='tg://emoji?id=5458450833857322148'>👌</a> <b>Защита ON</b>"
-  off: "<a href='tg://emoji?id=5458450833857322148'>👌</a> <b>Защита OFF</b>"
-  u_sure: "<a href='tg://emoji?id=5312383351217201533'>⚠️</a> <b>Ты уверен?</b>"
+  args_invalid: "<emoji document_id=5210952531676504517>🚫</emoji> <b>Аргументы кривые</b>"
+  suspended_for: "<emoji document_id=5458450833857322148>👌</emoji> <b>Защита API оффнута на {} сек</b>"
+  on: "<emoji document_id=5458450833857322148>👌</emoji> <b>Защита ON</b>"
+  off: "<emoji document_id=5458450833857322148>👌</emoji> <b>Защита OFF</b>"
+  u_sure: "<emoji document_id=5312383351217201533>⚠️</emoji> <b>Ты уверен?</b>"
   _cfg_time_sample: "Время, за которое считаем запросы"
   _cfg_threshold: "Сколько запросов до бана"
   _cfg_local_floodwait: "На сколько морозить юб при флуде"
@@ -436,21 +436,21 @@ help:
   undoc: "🦥 Хз че это"
   all_header: "<b>{} модов тут, {} в стелсе:</b>"
   no_mod: "🚫 <b>Какой модуль прячем?</b>"
-  help_lib: "<a href='tg://emoji?id=5404553572727660202'>❌</a> <b>Пакет</b> <code>{}</code> <b>это либа.</b>\n<a href='tg://emoji?id=5404553572727660202'>❌</a> <b>У либ нет описания, лол...</b>"
+  help_lib: "<emoji document_id=5404553572727660202>❌</emoji> <b>Пакет</b> <code>{}</code> <b>это либа.</b>\n<emoji document_id=5404553572727660202>❌</emoji> <b>У либ нет описания, лол...</b>"
   hidden_shown: "<b>{} модов скрыто, {} показано:</b>\n{}\n{}"
-  offchats: "<a href='tg://emoji?id=6019130940012370273'>❔</a> <a href=\"https://t.me/heroku_talks\"><b>Саппорт (помощь)</b></a>\n\n<a href='tg://emoji?id=6019151079114021083'>💬</a> <a href=\"https://t.me/heroku_offtop\"><b>Оффтоп (флуд)</b></a>\n\n<a href='tg://emoji?id=6019094432790354513'>📢</a> <a href=\"https://t.me/heroku_ub\"><b>Канал</b></a>"
+  offchats: "<emoji document_id=6019130940012370273>❔</emoji> <a href=\"https://t.me/heroku_talks\"><b>Саппорт (помощь)</b></a>\n\n<emoji document_id=6019151079114021083>💬</emoji> <a href=\"https://t.me/heroku_offtop\"><b>Оффтоп (флуд)</b></a>\n\n<emoji document_id=6019094432790354513>📢</emoji> <a href=\"https://t.me/heroku_ub\"><b>Канал</b></a>"
   _cls_doc: "Хелпа по модулям"
-  partial_load: "<a href='tg://emoji?id=5355133243773435190'>☝️</a> <b>Юзербот еще грузится, не все моды видно</b>"
-  not_exact: "<a href='tg://emoji?id=5355133243773435190'>☝️</a> <b>Точно не нашел, вот похожее</b>"
+  partial_load: "<emoji document_id=5355133243773435190>☝️</emoji> <b>Юзербот еще грузится, не все моды видно</b>"
+  not_exact: "<emoji document_id=5355133243773435190>☝️</emoji> <b>Точно не нашел, вот похожее</b>"
   request_join: "Ссылку на саппорт запросил"
-  core_notice: "<a href='tg://emoji?id=5355133243773435190'>☝️</a> <b>Это встроенный (core) модуль. Не трогай его</b>"
+  core_notice: "<emoji document_id=5355133243773435190>☝️</emoji> <b>Это встроенный (core) модуль. Не трогай его</b>"
   _cmd_doc_help: "[модуль] [-f] - Показать хелп"
   _cmd_doc_helphide: "<модули> - Спрятать модули из хелпа (через пробел)"
   _cmd_doc_support: "Дать ссылку на чат"
 
 heroku_info:
-  info_message: "{}\n<blockquote>┌\n├  【<a href='tg://emoji?id=5883964170268840032'>👤</a>】 <b>𝙾𝚠𝚗𝚎𝚛</b>: {me}\n├  【<a href='tg://emoji?id=5931415565955503486'>🤖</a>】 <b>𝚅𝚎𝚛𝚜𝚒𝚘𝚗</b>: {version}\n└</blockquote>\n<blockquote>┌\n├  【<a href='tg://emoji?id=5778335621491723621'>📷</a>】 <b>𝙿𝚛𝚎𝚏𝚒𝚡</b>: {prefix}⠀ ⠀ \n├  【<a href='tg://emoji?id=5843799474362652262'>🔄</a>】 <b>𝚄𝚙𝚝𝚒𝚖𝚎</b>: {uptime}\n├  【<a href='tg://emoji?id=5879770735999717115'>👤</a>】 <b>𝙱𝚛𝚊𝚗𝚌𝚑</b>: {branch}\n└</blockquote>\n<blockquote>┌\n├  【<a href='tg://emoji?id=5775887550262546277'>❗️</a>】 <b>𝙲𝙿𝚄</b>: {cpu_usage}\n├  【<a href='tg://emoji?id=5931409969613116639'>🛡</a>】 <b>𝚁𝙰𝙼</b>: {ram_usage}\n├  【<a href='tg://emoji?id=5931472654660800739'>📊</a>】 <b>𝙿𝚒𝚗𝚐</b>: {ping}\n└</blockquote>\n<blockquote>┌\n├  【<a href='tg://emoji?id=5926783847453692661'>🛡</a>】 <b>𝚄𝚙𝚍𝚊𝚝𝚎</b>: {upd}\n├  【<a href='tg://emoji?id=5931415565955503486'>🤖</a>】 <b>𝙷𝚘𝚜𝚝</b>: {platform}\n├  【<a href='tg://emoji?id=5819078828017849357'>🤖</a>】 <b>𝙾𝚂</b>: {os}\n├  【<a href='tg://emoji?id=5819078828017849357'>🤖</a>】 <b>𝙿𝚢𝚝𝚑𝚘𝚗 𝚅𝚎𝚛𝚜𝚒𝚘𝚗</b>: {python_ver}\n└</blockquote>"
-  non_detectable: "<a href='tg://emoji?id=5210952531676504517'>❌</a> <b>Сервак скрытный, не вижу!</b>"
+  info_message: "{}\n<blockquote>┌\n├  【<emoji document_id=5883964170268840032>👤</emoji>】 <b>𝙾𝚠𝚗𝚎𝚛</b>: {me}\n├  【<emoji document_id=5931415565955503486>🤖</emoji>】 <b>𝚅𝚎𝚛𝚜𝚒𝚘𝚗</b>: {version}\n└</blockquote>\n<blockquote>┌\n├  【<emoji document_id=5778335621491723621>📷</emoji>】 <b>𝙿𝚛𝚎𝚏𝚒𝚡</b>: {prefix}⠀ ⠀ \n├  【<emoji document_id=5843799474362652262>🔄</emoji>】 <b>𝚄𝚙𝚝𝚒𝚖𝚎</b>: {uptime}\n├  【<emoji document_id=5879770735999717115>👤</emoji>】 <b>𝙱𝚛𝚊𝚗𝚌𝚑</b>: {branch}\n└</blockquote>\n<blockquote>┌\n├  【<emoji document_id=5775887550262546277>❗️</emoji>】 <b>𝙲𝙿𝚄</b>: {cpu_usage}\n├  【<emoji document_id=5931409969613116639>🛡</emoji>】 <b>𝚁𝙰𝙼</b>: {ram_usage}\n├  【<emoji document_id=5931472654660800739>📊</emoji>】 <b>𝙿𝚒𝚗𝚐</b>: {ping}\n└</blockquote>\n<blockquote>┌\n├  【<emoji document_id=5926783847453692661>🛡</emoji>】 <b>𝚄𝚙𝚍𝚊𝚝𝚎</b>: {upd}\n├  【<emoji document_id=5931415565955503486>🤖</emoji>】 <b>𝙷𝚘𝚜𝚝</b>: {platform}\n├  【<emoji document_id=5819078828017849357>🤖</emoji>】 <b>𝙾𝚂</b>: {os}\n├  【<emoji document_id=5819078828017849357>🤖</emoji>】 <b>𝙿𝚢𝚝𝚑𝚘𝚗 𝚅𝚎𝚛𝚜𝚒𝚘𝚗</b>: {python_ver}\n└</blockquote>"
+  non_detectable: "<emoji document_id=5210952531676504517>❌</emoji> <b>Сервак скрытный, не вижу!</b>"
   ping_emoji: "Эмодзи пинга"
   send_info: "Кинуть инфу о юзерботе"
   description: "ℹ Это безопасно, не ссы"
@@ -460,58 +460,58 @@ heroku_info:
   _cfg_cst_msg: "Кастом текст в .info. Юзай {me}, {version}, {build} и прочее"
   _cfg_cst_btn: "Кнопка в .info. Пусто = нет кнопки"
   _cfg_banner: "Ссылка на баннер"
-  switchinfo_on: "<a href='tg://emoji?id=5118861066981344121'>✅</a> Картинку врубил"
-  switchinfo_off: "<a href='tg://emoji?id=5118861066981344121'>✅</a> Картинку вырубил"
-  desc: "<a href='tg://emoji?id=5188377234380954537'>🪐</a> <b>Че такое Userbot?</b>\n\n<a href='tg://emoji?id=5472238129849048175'>😎</a> Userbot - это <b>софт</b>, который через Telegram API делает <b>грязную работу за тебя</b>. Типа <b>спам, инвайт, качалка медиа и прочий движ</b>.\n\n<a href='tg://emoji?id=5474667187258006816'>😎</a> Юзерботы работают <b>прямо на твоем акке</b>, а не как обычные боты. Короче ты становишься киборгом.\n\n<a href='tg://emoji?id=5472267631979405211'>🚫</a> Но! <b>Telegram это официально не одобряет</b>, так что если будешь творить дичь — словишь бан. <b>Будь аккуратнее</b> и не ставь скам-модули.\n\n"
-  no_font: "<a href='tg://emoji?id=5465665476971471368'>❌</a> Где ссылка или реплай на шрифт, алло?"
-  no_banner: "<a href='tg://emoji?id=6010394680179562842'>😶</a> <b>По ссылке </b><code>{link}</code><b> пусто.\n\nЧекни ссылку, мб кривая.</b>"
-  font_installed: "<a href='tg://emoji?id=5436040291507247633'>🎉</a> <b>Шрифт поставил!</b>\n<a href='tg://emoji?id=5436040291507247633'>🎉</a> <i>Кайфуй.</i>"
-  incorrect_format_font: "<a href='tg://emoji?id=5465665476971471368'>❌</a> <b>Формат кринж!</b>\n<blockquote>Надо -> otf, ttf</blockquote>"
-  incorrect_img_format: "<a href='tg://emoji?id=5465665476971471368'>❌</a> <b>Формат картинки не тот</b>\n<blockquote>Надо -> jpg, jpeg, png, bmp, webp</blockquote>"
+  switchinfo_on: "<emoji document_id=5118861066981344121>✅</emoji> Картинку врубил"
+  switchinfo_off: "<emoji document_id=5118861066981344121>✅</emoji> Картинку вырубил"
+  desc: "<emoji document_id=5188377234380954537>🪐</emoji> <b>Че такое Userbot?</b>\n\n<emoji document_id=5472238129849048175>😎</emoji> Userbot - это <b>софт</b>, который через Telegram API делает <b>грязную работу за тебя</b>. Типа <b>спам, инвайт, качалка медиа и прочий движ</b>.\n\n<emoji document_id=5474667187258006816>😎</emoji> Юзерботы работают <b>прямо на твоем акке</b>, а не как обычные боты. Короче ты становишься киборгом.\n\n<emoji document_id=5472267631979405211>🚫</emoji> Но! <b>Telegram это официально не одобряет</b>, так что если будешь творить дичь — словишь бан. <b>Будь аккуратнее</b> и не ставь скам-модули.\n\n"
+  no_font: "<emoji document_id=5465665476971471368>❌</emoji> Где ссылка или реплай на шрифт, алло?"
+  no_banner: "<emoji document_id=6010394680179562842>😶</emoji> <b>По ссылке </b><code>{link}</code><b> пусто.\n\nЧекни ссылку, мб кривая.</b>"
+  font_installed: "<emoji document_id=5436040291507247633>🎉</emoji> <b>Шрифт поставил!</b>\n<emoji document_id=5436040291507247633>🎉</emoji> <i>Кайфуй.</i>"
+  incorrect_format_font: "<emoji document_id=5465665476971471368>❌</emoji> <b>Формат кринж!</b>\n<blockquote>Надо -> otf, ttf</blockquote>"
+  incorrect_img_format: "<emoji document_id=5465665476971471368>❌</emoji> <b>Формат картинки не тот</b>\n<blockquote>Надо -> jpg, jpeg, png, bmp, webp</blockquote>"
   _cmd_doc_ubinfo: "Скинуть 'Что такое Хероку?'"
   _cmd_doc_info: "Скинуть инфу"
   _cmd_doc_setinfo: "<текст> - Поменять текст в .info"
 
 loader:
   loadmod_pm_timeout: "Жди 10 сек, не суетись"
-  loadmod_not_allowed_fresh_pm: "<a href='tg://emoji?id=5447644880824181073'>⚠️</a> <b><u>ЧИТАЙ!</u></b> <a href='tg://emoji?id=5447644880824181073'>⚠️</a>\n\n<b>Ты качаешь модуль из ЛС с нн-ом.</b> Если там скам, тебе <b>снесут акк или угонят сессию</b>. Если знаешь чела и он ровный на <b><u>100%</u></b>, жди пару дней и пробуй."
-  link: "<a href='tg://emoji?id=5256113064821926998'>📁</a> <b>Файл</b> {class_name}\n\n<a href='tg://emoji?id=5134452506935427991'>🪐</a> <b>{prefix}lm реплаем сюда, чтоб поставить</b>\n\n<a href='tg://emoji?id=4916086774649848789'>🔗</a> <code>{prefix}dlm {url}</code>\n\n{not_exact}"
-  file: "<a href='tg://emoji?id=5256113064821926998'>📁</a> <b>Файл</b> {class_name}\n\n<a href='tg://emoji?id=5134452506935427991'>🪐</a> <b>{prefix}lm реплаем сюда, чтоб поставить</b>\n\n{not_exact}"
-  finding_module_in_repos: "<a href='tg://emoji?id=5873204392429096339'>🔄</a> Ищу в репо..."
-  loading_module_via_file: "<a href='tg://emoji?id=5873204392429096339'>🔄</a> Гружу..."
-  ml_load_module: "<a href='tg://emoji?id=5873204392429096339'>🔄</a> Качаю как файл..."
-  not_exact: "<a href='tg://emoji?id=5355133243773435190'>⚠️</a> <i>Точно такого нет, вот похожее</i>"
-  args: "<a href='tg://emoji?id=5210952531676504517'>❌</a> <b>Аргументы где?</b>"
-  loadmod_confirm_pm_message: "<a href='tg://emoji?id=5451732530048802485'>⏳</a> <i>Жду пока ты нажмешь...</i>"
-  loadmod_cancelled: "<a href='tg://emoji?id=5210952531676504517'>🚫</a> <b>Отмена, не качаем</b>"
+  loadmod_not_allowed_fresh_pm: "<emoji document_id=5447644880824181073>⚠️</emoji> <b><u>ЧИТАЙ!</u></b> <emoji document_id=5447644880824181073>⚠️</emoji>\n\n<b>Ты качаешь модуль из ЛС с нн-ом.</b> Если там скам, тебе <b>снесут акк или угонят сессию</b>. Если знаешь чела и он ровный на <b><u>100%</u></b>, жди пару дней и пробуй."
+  link: "<emoji document_id=5256113064821926998>📁</emoji> <b>Файл</b> {class_name}\n\n<emoji document_id=5134452506935427991>🪐</emoji> <b>{prefix}lm реплаем сюда, чтоб поставить</b>\n\n<emoji document_id=4916086774649848789>🔗</emoji> <code>{prefix}dlm {url}</code>\n\n{not_exact}"
+  file: "<emoji document_id=5256113064821926998>📁</emoji> <b>Файл</b> {class_name}\n\n<emoji document_id=5134452506935427991>🪐</emoji> <b>{prefix}lm реплаем сюда, чтоб поставить</b>\n\n{not_exact}"
+  finding_module_in_repos: "<emoji document_id=5873204392429096339>🔄</emoji> Ищу в репо..."
+  loading_module_via_file: "<emoji document_id=5873204392429096339>🔄</emoji> Гружу..."
+  ml_load_module: "<emoji document_id=5873204392429096339>🔄</emoji> Качаю как файл..."
+  not_exact: "<emoji document_id=5355133243773435190>⚠️</emoji> <i>Точно такого нет, вот похожее</i>"
+  args: "<emoji document_id=5210952531676504517>❌</emoji> <b>Аргументы где?</b>"
+  loadmod_confirm_pm_message: "<emoji document_id=5451732530048802485>⏳</emoji> <i>Жду пока ты нажмешь...</i>"
+  loadmod_cancelled: "<emoji document_id=5210952531676504517>🚫</emoji> <b>Отмена, не качаем</b>"
   loadmod_confirm_pm: "⚠️ <b>Ахтунг!</b>\n\nКачать левые модули <b><u>опасно</u></b> — могут <b>угнать акк</b>. Если доверяешь челу на <b><u>100%</u></b> - жми.\n\n<b>Качаем?</b>"
   loadmod_confirm_pm_yes: "✅ Да, го"
   loadmod_confirm_pm_no: "🚫 Не, ну нафиг"
   repo_config_doc: "Ссылка на репо"
   add_repo_config_doc: "Доп. репозитории"
   avail_header: "🎢 <b>Офф. модули</b>"
-  no_module: "<a href='tg://emoji?id=5210952531676504517'>🚫</a> <b>Нет такого в репо.</b>"
-  no_file: "<a href='tg://emoji?id=5210952531676504517'>🚫</a> <b>Файл потерялся</b>"
-  provide_module: "<a href='tg://emoji?id=5312383351217201533'>⚠️</a> <b>Че качать то?</b>"
-  bad_unicode: "<a href='tg://emoji?id=5210952531676504517'>🚫</a> <b>Кодировка кривая</b>"
-  load_failed: "<a href='tg://emoji?id=5210952531676504517'>🚫</a> <b>Не загрузилось (F). Чекни логи.</b>"
-  loaded: "<a href='tg://emoji?id=5134452506935427991'>🪐</a> <b>Модуль</b> <code>{}</code>{} <b>залетел {}</b>{}{}{}{}{}{}"
+  no_module: "<emoji document_id=5210952531676504517>🚫</emoji> <b>Нет такого в репо.</b>"
+  no_file: "<emoji document_id=5210952531676504517>🚫</emoji> <b>Файл потерялся</b>"
+  provide_module: "<emoji document_id=5312383351217201533>⚠️</emoji> <b>Че качать то?</b>"
+  bad_unicode: "<emoji document_id=5210952531676504517>🚫</emoji> <b>Кодировка кривая</b>"
+  load_failed: "<emoji document_id=5210952531676504517>🚫</emoji> <b>Не загрузилось (F). Чекни логи.</b>"
+  loaded: "<emoji document_id=5134452506935427991>🪐</emoji> <b>Модуль</b> <code>{}</code>{} <b>залетел {}</b>{}{}{}{}{}{}"
   no_class: "<b>Че выгружать?</b>"
   unloaded: "{} <b>Модуль {} выкинул.</b>"
-  modules_unloaded: "<a href='tg://emoji?id=5784993237412351403'>✅</a> <b>Выкинул {unloaded_num} модов:</b>\n<blockquote expandable>{unloaded}</blockquote>"
-  not_unloaded: "<a href='tg://emoji?id=5210952531676504517'>🚫</a> <b>Не выкинул.</b>"
-  modules_not_unloaded: "<a href='tg://emoji?id=5210952531676504517'>🚫</a> <b>Не смог выкинуть {not_unloaded} модов.</b>\n<blockquote expandable>{errors}</blockquote>"
-  requirements_failed: "<a href='tg://emoji?id=5210952531676504517'>🚫</a> <b>Зависимости не встали</b>"
+  modules_unloaded: "<emoji document_id=5784993237412351403>✅</emoji> <b>Выкинул {unloaded_num} модов:</b>\n<blockquote expandable>{unloaded}</blockquote>"
+  not_unloaded: "<emoji document_id=5210952531676504517>🚫</emoji> <b>Не выкинул.</b>"
+  modules_not_unloaded: "<emoji document_id=5210952531676504517>🚫</emoji> <b>Не смог выкинуть {not_unloaded} модов.</b>\n<blockquote expandable>{errors}</blockquote>"
+  requirements_failed: "<emoji document_id=5210952531676504517>🚫</emoji> <b>Зависимости не встали</b>"
   requirements_restarted: "🚀 <b>Ребутаюсь, потом ставь модуль снова.</b>"
-  requirements_installing: "<a href='tg://emoji?id=5328311576736833844'>🚀</a> <b>Ставлю либы:\n\n{}</b>"
-  requirements_restart: "<a href='tg://emoji?id=5875145601682771643'>🚀</a> <b>Либы встали, ребутнись для</b> <code>{}</code>"
-  all_modules_deleted: "<a href='tg://emoji?id=5784993237412351403'>✅</a> <b>Модули снесены</b>"
-  undoc: "<a href='tg://emoji?id=5427052514094619126'>🤷‍♀️</a> Хз че это"
-  ihandler: "\n<a href='tg://emoji?id=5372981976804366741'>🤖</a> <code>{}</code> {}"
-  version_incompatible: "<a href='tg://emoji?id=5454225457916420314'>😖</a> <b>Надо Heroku версии {}+\nОбновись</b> <code>.update</code>"
-  ffmpeg_required: "<a href='tg://emoji?id=5454225457916420314'>😖</a> <b>Надо FFMPEG, а его нет</b>"
-  developer: "\n\n<a href='tg://emoji?id=5287454910059654880'>🫶</a> <b>Кодер:</b> {}"
-  depends_from: "\n\n<a href='tg://emoji?id=5341492148468465410'>📦</a> <b>Надо еще:</b> \n{}"
+  requirements_installing: "<emoji document_id=5328311576736833844>🚀</emoji> <b>Ставлю либы:\n\n{}</b>"
+  requirements_restart: "<emoji document_id=5875145601682771643>🚀</emoji> <b>Либы встали, ребутнись для</b> <code>{}</code>"
+  all_modules_deleted: "<emoji document_id=5784993237412351403>✅</emoji> <b>Модули снесены</b>"
+  undoc: "<emoji document_id=5427052514094619126>🤷‍♀️</emoji> Хз че это"
+  ihandler: "\n<emoji document_id=5372981976804366741>🤖</emoji> <code>{}</code> {}"
+  version_incompatible: "<emoji document_id=5454225457916420314>😖</emoji> <b>Надо Heroku версии {}+\nОбновись</b> <code>.update</code>"
+  ffmpeg_required: "<emoji document_id=5454225457916420314>😖</emoji> <b>Надо FFMPEG, а его нет</b>"
+  developer: "\n\n<emoji document_id=5287454910059654880>🫶</emoji> <b>Кодер:</b> {}"
+  depends_from: "\n\n<emoji document_id=5341492148468465410>📦</emoji> <b>Надо еще:</b> \n{}"
   by: "от"
   module_fs: "💿 <b>Сейвим модуль на диск, чтоб не слетал?</b>"
   save: "💿 Сейви"
@@ -519,16 +519,16 @@ loader:
   save_for_all: "💽 Всегда сейви"
   never_save: "🚫 Никогда не сейви"
   will_save_fs: "💽 Терь все .loadmod сейвятся"
-  inline_init_failed: "<a href='tg://emoji?id=5454225457916420314'>😖</a> <b>Надо HerokuInline, а он сломался</b>\n<i>Снеси старых ботов в @BotFather и ребутнись</i>"
+  inline_init_failed: "<emoji document_id=5454225457916420314>😖</emoji> <b>Надо HerokuInline, а он сломался</b>\n<i>Снеси старых ботов в @BotFather и ребутнись</i>"
   _cmd_doc_dlmod: "Качает из репо"
   _cmd_doc_loadmod: "Качает из файла"
   _cmd_doc_unloadmod: "Сносит модуль"
   _cmd_doc_clearmodules: "Сносит ВСЕ модули"
   _cls_doc: "Грузит модули"
   share_link_doc: "Давать ссылку после .dlmod"
-  modlink: "\n\n<a href='tg://emoji?id=6037284117505116849'>🌐</a> <b>Ссылка:</b> <code>{}</code>"
-  blob_link: "\n\n<a href='tg://emoji?id=5312383351217201533'>⚠️</a> <b>Не юзай `blob`, юзай `raw`</b>"
-  raw_link: "\n<a href='tg://emoji?id=6037284117505116849'>🌐</a> <b>Ссылка:</b> <code>{}</code>"
+  modlink: "\n\n<emoji document_id=6037284117505116849>🌐</emoji> <b>Ссылка:</b> <code>{}</code>"
+  blob_link: "\n\n<emoji document_id=5312383351217201533>⚠️</emoji> <b>Не юзай `blob`, юзай `raw`</b>"
+  raw_link: "\n<emoji document_id=6037284117505116849>🌐</emoji> <b>Ссылка:</b> <code>{}</code>"
   suggest_subscribe: "\n\n⭐️ <b>Модуль от {}. Подпишись на него, не будь крысой?</b>"
   subscribe: "💬 Подписка"
   no_subscribe: "🚫 Не хочу"
@@ -537,50 +537,50 @@ loader:
   confirm_clearmodules: "⚠️ <b>Точно сносим ВСЕ модули?</b>"
   clearmodules: "🗑 Снести всё"
   cancel: "🚫 Отмена"
-  overwrite_module: "<a href='tg://emoji?id=5454225457916420314'>😖</a> <b>Этот модуль хотел перезаписать встроенный (</b><code>{}</code><b>)</b>\n\n<a href='tg://emoji?id=5472146462362048818'>💡</a><i> Это защита, чтоб всякий шлак не ломал бота. Не пиши в саппорт.</i>"
-  scam_module: "<a href='tg://emoji?id=5454225457916420314'>😖</a> <b>Модуль</b> <code>{name}</code> <b>это СКАМ, кидай репорт в (</b><code>{prefix}support</code><b>)</b>\n\n<tg-spoiler><i>Я его стопнул.</i></tg-spoiler>"
-  overwrite_command: "<a href='tg://emoji?id=5454225457916420314'>😖</a> <b>Этот модуль хотел перезаписать встроенную команду (</b><code>{}</code><b>)</b>\n\n<a href='tg://emoji?id=5472146462362048818'>💡</a><i> Это защита, чтоб всякий шлак не ломал бота.</i>"
-  unload_core: "<a href='tg://emoji?id=5454225457916420314'>😖</a> <b>Нельзя сносить встроенный модуль</b> <code>{}</code><b>, сломаешь всё</b>\n\n<a href='tg://emoji?id=5472146462362048818'>💡</a><i> Защита от дурака.</i>"
-  cannot_unload_lib: "<a href='tg://emoji?id=5454225457916420314'>😖</a> <b>Либу не снесешь</b>"
-  wait_channel_approve: "<a href='tg://emoji?id=5469741319330996757'>💫</a> <b>Модуль</b> <code>{}</code> <b>хочет в канал <a href=\"https://t.me/{}\">{}</a>.\n\n<b><emoji document_id=\"5467666648263564704\">❓</emoji> Зачем: {}</b>\n\n<i>Ждем <a href=\"https://t.me/{}\">добро</a>...</i>"
-  installing: "<a href='tg://emoji?id=5325792861885570739'>🕔</a> <b>Ставлю модуль</b> <code>{}</code><b>...</b>"
-  repo_exists: "<a href='tg://emoji?id=5210952531676504517'>🚫</a> <b>Репо</b> <code>{}</code> <b>уже есть</b>"
-  repo_added: "<a href='tg://emoji?id=5784993237412351403'>✅</a> <b>Репо</b> <code>{}</code> <b>добавил</b>"
-  no_repo: "<a href='tg://emoji?id=5210952531676504517'>🚫</a> <b>Какое репо добавить?</b>"
-  repo_not_exists: "<a href='tg://emoji?id=5210952531676504517'>🚫</a> <b>Репо</b> <code>{}</code> <b>нет такого</b>"
-  repo_deleted: "<a href='tg://emoji?id=5784993237412351403'>✅</a> <b>Репо</b> <code>{}</code> <b>удалил</b>"
+  overwrite_module: "<emoji document_id=5454225457916420314>😖</emoji> <b>Этот модуль хотел перезаписать встроенный (</b><code>{}</code><b>)</b>\n\n<emoji document_id=5472146462362048818>💡</emoji><i> Это защита, чтоб всякий шлак не ломал бота. Не пиши в саппорт.</i>"
+  scam_module: "<emoji document_id=5454225457916420314>😖</emoji> <b>Модуль</b> <code>{name}</code> <b>это СКАМ, кидай репорт в (</b><code>{prefix}support</code><b>)</b>\n\n<tg-spoiler><i>Я его стопнул.</i></tg-spoiler>"
+  overwrite_command: "<emoji document_id=5454225457916420314>😖</emoji> <b>Этот модуль хотел перезаписать встроенную команду (</b><code>{}</code><b>)</b>\n\n<emoji document_id=5472146462362048818>💡</emoji><i> Это защита, чтоб всякий шлак не ломал бота.</i>"
+  unload_core: "<emoji document_id=5454225457916420314>😖</emoji> <b>Нельзя сносить встроенный модуль</b> <code>{}</code><b>, сломаешь всё</b>\n\n<emoji document_id=5472146462362048818>💡</emoji><i> Защита от дурака.</i>"
+  cannot_unload_lib: "<emoji document_id=5454225457916420314>😖</emoji> <b>Либу не снесешь</b>"
+  wait_channel_approve: "<emoji document_id=5469741319330996757>💫</emoji> <b>Модуль</b> <code>{}</code> <b>хочет в канал <a href=\"https://t.me/{}\">{}</a>.\n\n<b><emoji document_id=\"5467666648263564704\">❓</emoji> Зачем: {}</b>\n\n<i>Ждем <a href=\"https://t.me/{}\">добро</a>...</i>"
+  installing: "<emoji document_id=5325792861885570739>🕔</emoji> <b>Ставлю модуль</b> <code>{}</code><b>...</b>"
+  repo_exists: "<emoji document_id=5210952531676504517>🚫</emoji> <b>Репо</b> <code>{}</code> <b>уже есть</b>"
+  repo_added: "<emoji document_id=5784993237412351403>✅</emoji> <b>Репо</b> <code>{}</code> <b>добавил</b>"
+  no_repo: "<emoji document_id=5210952531676504517>🚫</emoji> <b>Какое репо добавить?</b>"
+  repo_not_exists: "<emoji document_id=5210952531676504517>🚫</emoji> <b>Репо</b> <code>{}</code> <b>нет такого</b>"
+  repo_deleted: "<emoji document_id=5784993237412351403>✅</emoji> <b>Репо</b> <code>{}</code> <b>удалил</b>"
   _cmd_doc_addrepo: "Добавить репо"
   _cmd_doc_delrepo: "Удалить репо"
   basic_auth_doc: "Вход в репо"
 
 translations:
   lang_saved: "{} <b>Язык сменил, красава!</b>"
-  pack_saved: "<a href='tg://emoji?id=5197474765387864959'>👍</a> <b>Пак переводов сохранил!</b>"
-  incorrect_language: "<a href='tg://emoji?id=5210952531676504517'>🚫</a> <b>Язык кривой</b>"
-  lang_removed: "<a href='tg://emoji?id=5197474765387864959'>👍</a> <b>Сбросил на дефолт</b>"
-  check_pack: "<a href='tg://emoji?id=5210952531676504517'>🚫</a> <b>Пак кривой в ссылке</b>"
-  check_url: "<a href='tg://emoji?id=5210952531676504517'>🚫</a> <b>Ссылку дай норм с паком</b>"
-  too_long: "<a href='tg://emoji?id=5341492148468465410'>📁</a> <b>Текста дофига, кидаю файлом.</b>"
+  pack_saved: "<emoji document_id=5197474765387864959>👍</emoji> <b>Пак переводов сохранил!</b>"
+  incorrect_language: "<emoji document_id=5210952531676504517>🚫</emoji> <b>Язык кривой</b>"
+  lang_removed: "<emoji document_id=5197474765387864959>👍</emoji> <b>Сбросил на дефолт</b>"
+  check_pack: "<emoji document_id=5210952531676504517>🚫</emoji> <b>Пак кривой в ссылке</b>"
+  check_url: "<emoji document_id=5210952531676504517>🚫</emoji> <b>Ссылку дай норм с паком</b>"
+  too_long: "<emoji document_id=5341492148468465410>📁</emoji> <b>Текста дофига, кидаю файлом.</b>"
   choose_language: "🗽 <b>Выбирай язык</b>"
   off_langs: "🏴‍☠️ Офф. переводы"
   meme_langs: "🏴‍☠️ Рофло-переводы"
-  not_official: "<a href='tg://emoji?id=5312383351217201533'>⚠️</a> <b>Язык неофициальный (самопал)</b>"
+  not_official: "<emoji document_id=5312383351217201533>⚠️</emoji> <b>Язык неофициальный (самопал)</b>"
   requested_join: "💫 <b>Модуль</b> <code>{}</code> <b>хочет в канал <a href='https://t.me/{}'>{}</a></b>\n\n<b>❓ Зачем:</b> <i>{}</i>"
-  fw_error: "<a href='tg://emoji?id=5877458226823302157'>🕒</a> <b>Команда</b> <code>{}</code> <b>слолвила ФлудВейт {} в</b> <code> {}</code>"
-  rpc_error: "<a href='tg://emoji?id=5877477244938489129'>🚫</a> <b>Команда</b> <code>{}</code> <b>рипнулась (RPC Error):</b> <code>{}</code>"
+  fw_error: "<emoji document_id=5877458226823302157>🕒</emoji> <b>Команда</b> <code>{}</code> <b>слолвила ФлудВейт {} в</b> <code> {}</code>"
+  rpc_error: "<emoji document_id=5877477244938489129>🚫</emoji> <b>Команда</b> <code>{}</code> <b>рипнулась (RPC Error):</b> <code>{}</code>"
   _cmd_doc_dllangpack: "[ссылка | пусто = удалить] - Внешний пак перевода"
   _cmd_doc_setlang: "[языки] - Сменить язык"
 
 eval:
-  eval: "<emoji document_id={}>💻</emoji><b> Говнокод:</b>\n<pre><code class=\"language-{}\">{}</code></pre>\n\n<a href='tg://emoji?id=5197688912457245639'>✅</a><b> Выхлоп:</b>\n<pre><code class=\"language-{}\">{}</code></pre>"
-  err: "<emoji document_id={}>💻</emoji><b> Говнокод:</b>\n<pre><code class=\"language-{}\">{}</code></pre>\n\n<a href='tg://emoji?id=5210952531676504517'>🚫</a> <b>Ошибка (кринж):</b>\n<pre><code class=\"language-{}\">{}</code></pre>"
+  eval: "<emoji document_id={}>💻</emoji><b> Говнокод:</b>\n<pre><code class=\"language-{}\">{}</code></pre>\n\n<emoji document_id=5197688912457245639>✅</emoji><b> Выхлоп:</b>\n<pre><code class=\"language-{}\">{}</code></pre>"
+  err: "<emoji document_id={}>💻</emoji><b> Говнокод:</b>\n<pre><code class=\"language-{}\">{}</code></pre>\n\n<emoji document_id=5210952531676504517>🚫</emoji> <b>Ошибка (кринж):</b>\n<pre><code class=\"language-{}\">{}</code></pre>"
   eval_py: "<emoji document_id={}>💻</emoji><b> Говнокод:</b>\n<pre><code class=\"language-{}\">{}</code></pre>"
   _cls_doc: "Выполняет код (для кодеров)"
-  compiling: "<a href='tg://emoji?id=5325787248363314644'>🫥</a> <b>Собираю...</b>"
-  time_exec: "\n<a href='tg://emoji?id=5134202243486057363'>💫</a> <b>Тайминг: {}с</b>"
+  compiling: "<emoji document_id=5325787248363314644>🫥</emoji> <b>Собираю...</b>"
+  time_exec: "\n<emoji document_id=5134202243486057363>💫</emoji> <b>Тайминг: {}с</b>"
   no_compiler: "<emoji document_id={}>💻</emoji> <b>Компилятора {} нет, скачай.</b>"
-  eval_result: "\n\n<a href='tg://emoji?id=5197688912457245639'>✅</a><b> Выхлоп:</b>\n<pre><code class=\"language-{}\">{}</code></pre>"
-  print_outp: "\n\n<a href='tg://emoji?id=5118861066981344121'>✅</a><b> Принт:</b>\n<pre><code class=\"language-{}\">{}</code></pre>"
+  eval_result: "\n\n<emoji document_id=5197688912457245639>✅</emoji><b> Выхлоп:</b>\n<pre><code class=\"language-{}\">{}</code></pre>"
+  print_outp: "\n\n<emoji document_id=5118861066981344121>✅</emoji><b> Принт:</b>\n<pre><code class=\"language-{}\">{}</code></pre>"
   _cmd_doc_e: "Python"
   _cmd_doc_ebf: "Brainf*ck"
   _cmd_doc_ec: "C"
@@ -590,10 +590,10 @@ eval:
   _cmd_doc_eruby: "Ruby"
 
 translate:
-  no_args: "<a href='tg://emoji?id=5210952531676504517'>❌</a> <b>Аргументы где?</b>"
-  error: "<a href='tg://emoji?id=5210952531676504517'>❌</a> <b>Не перевелось (скилл ишью)</b>"
+  no_args: "<emoji document_id=5210952531676504517>❌</emoji> <b>Аргументы где?</b>"
+  error: "<emoji document_id=5210952531676504517>❌</emoji> <b>Не перевелось (скилл ишью)</b>"
   language: "ru"
-  translated_text: "<a href='tg://emoji?id=5787344001862471785'>🔁</a> Перевод:\n<blockquote>{tr_text} <\/blockquote>"
+  translated_text: "<emoji document_id=5787344001862471785>🔁</emoji> Перевод:\n<blockquote>{tr_text} <\/blockquote>"
   _cls_doc: "Переводчик"
   _cmd_doc_tr: "[язык] [текст] - Перевести"
 
@@ -644,9 +644,9 @@ $inline:
   opening_form: " <b>Открываю форму...</b>"
   opening_gallery: " <b>Открываю галерею...</b>"
   opening_list: " <b>Открываю список...</b>"
-  inline403: "<a href='tg://emoji?id=5210952531676504517'>🚫</a> <b>Инлайн тут не пашет</b>"
-  invoke_failed: "<a href='tg://emoji?id=5210952531676504517'>🚫</a> <b>Все сломалось! Чекни логи</b>"
-  invoke_failed_logs: "<a href='tg://emoji?id=5210952531676504517'>🚫</a> <b>Сломалось!</b>\n\n<a href='tg://emoji?id=5226512880362332956'>📖</a> <b>Логи:</b>\n\n<pre><code class=\"language-logs\">{}</code></pre>"
+  inline403: "<emoji document_id=5210952531676504517>🚫</emoji> <b>Инлайн тут не пашет</b>"
+  invoke_failed: "<emoji document_id=5210952531676504517>🚫</emoji> <b>Все сломалось! Чекни логи</b>"
+  invoke_failed_logs: "<emoji document_id=5210952531676504517>🚫</emoji> <b>Сломалось!</b>\n\n<emoji document_id=5226512880362332956>📖</emoji> <b>Логи:</b>\n\n<pre><code class=\"language-logs\">{}</code></pre>"
   show_inline_cmds: "📄 Показать инлайн команды"
   no_inline_cmds: "Нет инлайн команд"
   no_inline_cmds_msg: "<b>😔 Нет команд или прав нету</b>"
