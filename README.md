@@ -39,9 +39,9 @@ To install a custom language pack, simply use the `.dllangpack` command followed
 ## 🎭 Meme & <img src="https://i.imgur.com/5EmxevP.png" width="25" height="25" style="vertical-align: bottom;"> exteraGram Emojies
 | Flag | Language | File | Install |
 | :---: | :--- | :---: | :--- |
-| 👾 | **Leetspeak (1337)** | `leet.yml` | `.dllangpack https://raw.githubusercontent.com/rararchiv3/HerokuLangs/main/meme/leet.yml` |
-| 🎵 | **TikTok Kid** | `tiktok.yml` | `.dllangpack https://raw.githubusercontent.com/rararchiv3/HerokuLangs/main/meme/tiktok.yml` |
-| 😽 | **UwU** | `uwu.yml` | `.dllangpack https://raw.githubusercontent.com/rararchiv3/HerokuLangs/main/meme/uwu.yml` |
+| 👾 | **Leetspeak (1337)** | `leet.yml` | `.dllangpack https://raw.githubusercontent.com/coddrago/Heroku/dev/heroku/langpacks/leet.yml` |
+| 🎵 | **TikTok Kid** | `tiktok.yml` | `.dllangpack https://raw.githubusercontent.com/coddrago/Heroku/dev/heroku/langpacks/tiktok.yml` |
+| 😽 | **UwU** | `uwu.yml` | `.dllangpack https://raw.githubusercontent.com/coddrago/Heroku/dev/heroku/langpacks/uwu.yml` |
 
 ---
 &nbsp;
