@@ -1,5 +1,3 @@
---- START OF FILE text/plain ---
-
 heroku_security:
   invalid_name: "<emoji document_id=5210952531676504517>🚫</emoji> <b>нᴇпᴩᴀʙиᴧьноᴇ иᴍя</b>"
   no_command: "<emoji document_id=5210952531676504517>🚫</emoji> <b>ᴋоᴍᴀндᴀ</b> <code>{}</code> <b>нᴇ нᴀйдᴇнᴀ!</b>"
