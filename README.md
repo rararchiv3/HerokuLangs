@@ -13,7 +13,7 @@
 | Стиль | Языки | Ссылки |
 | :--- | :---: | :--- |
 | **1337** | `RU` \| `EN` | [Установить RU](https://t.me/share/url?url=.dllangpack%20https://raw.githubusercontent.com/rararchiv3/HerokuLangs/main/exteragram/styles/1337/ru.yml) / [Установить EN](https://t.me/share/url?url=.dllangpack%20https://raw.githubusercontent.com/rararchiv3/HerokuLangs/main/exteragram/styles/1337/en.yml) |
-| **UWU** | `RU` \| `EN` | [Установить RU](https://t.me/share/url?url=.dllangpack%20https://raw.githubusercontent.com/rararchiv3/HerokuLangs/main/exteragram/styles/uwu/ru.yml) / [Установить EN](https://t.me/share/url?url=.dllangpack%20https://raw.githubusercontent.com/rararchiv3/HerokuLangs/main/exteragram/styles/uwu/en.yml) |
+| **UwU** | `RU` \| `EN` | [Установить RU](https://t.me/share/url?url=.dllangpack%20https://raw.githubusercontent.com/rararchiv3/HerokuLangs/main/exteragram/styles/uwu/ru.yml) / [Установить EN](https://t.me/share/url?url=.dllangpack%20https://raw.githubusercontent.com/rararchiv3/HerokuLangs/main/exteragram/styles/uwu/en.yml) |
 | **TikTok Kid** | `RU` | [Установить RU](https://t.me/share/url?url=.dllangpack%20https://raw.githubusercontent.com/rararchiv3/HerokuLangs/main/exteragram/styles/tiktokkid/ru.yml) |
 | **sᴍᴀʟʟ ᴄᴀᴘs** | `RU` | [Установить RU](https://t.me/share/url?url=.dllangpack%20https://raw.githubusercontent.com/rararchiv3/HerokuLangs/main/exteragram/styles/smallcaps/ru.yml) |
 
@@ -32,6 +32,6 @@
 | Стиль | Языки | Ссылки |
 | :--- | :---: | :--- |
 | **1337** | `RU` \| `EN` | [Установить RU](https://t.me/share/url?url=.dllangpack%20https://raw.githubusercontent.com/rararchiv3/HerokuLangs/main/standard/styles/1337/ru.yml) / [Установить EN](https://t.me/share/url?url=.dllangpack%20https://raw.githubusercontent.com/rararchiv3/HerokuLangs/main/standard/styles/1337/en.yml) |
-| **UWU** | `RU` \| `EN` | [Установить RU](https://t.me/share/url?url=.dllangpack%20https://raw.githubusercontent.com/rararchiv3/HerokuLangs/main/standard/styles/uwu/ru.yml) / [Установить EN](https://t.me/share/url?url=.dllangpack%20https://raw.githubusercontent.com/rararchiv3/HerokuLangs/main/standard/styles/uwu/en.yml) |
+| **UwU** | `RU` \| `EN` | [Установить RU](https://t.me/share/url?url=.dllangpack%20https://raw.githubusercontent.com/rararchiv3/HerokuLangs/main/standard/styles/uwu/ru.yml) / [Установить EN](https://t.me/share/url?url=.dllangpack%20https://raw.githubusercontent.com/rararchiv3/HerokuLangs/main/standard/styles/uwu/en.yml) |
 | **TikTok Kid** | `RU` | [Установить RU](https://t.me/share/url?url=.dllangpack%20https://raw.githubusercontent.com/rararchiv3/HerokuLangs/main/standard/styles/tiktokkid/ru.yml) |
 | **sᴍᴀʟʟ ᴄᴀᴘs** | `RU` | [Установить RU](https://t.me/share/url?url=.dllangpack%20https://raw.githubusercontent.com/rararchiv3/HerokuLangs/main/standard/styles/smallcaps/ru.yml) |
